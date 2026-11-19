@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 13:26",
+ "updated": "2026-11-19 13:33",
  "today": "2026-11-19",
  "groups": [
   {
@@ -37,7 +37,7 @@
    "title": "Videonovērošanas inspektors/-e",
    "url": "https://www.cvmarket.lv/videonoverosanas-inspektors-e-riga-starptautiska-lidosta-riga-vas-1661297",
    "company": "Starptautiskā lidosta Rīga VAS",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -45,16 +45,14 @@
    "groups": [
     "ai"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660585",
    "title": "Mārketinga vadītājs/-a",
    "url": "https://www.cvmarket.lv/marketinga-vaditajs-a-riga-workingday-latvia-sia-1660585",
    "company": "WORKINGDAY LATVIA, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -62,33 +60,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1660777",
-   "title": "Biroja vadītājs/-a / vadības asistents/-e",
-   "url": "https://www.cvmarket.lv/biroja-vaditajs-a-vadibas-asistents-e-marupes-novads-workingday-latvia-sia-1660777",
-   "company": "WORKINGDAY LATVIA, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1663045",
    "title": "Personāla speciālists/-e",
    "url": "https://www.cvmarket.lv/personala-specialists-e-riga-dardedze-holografija-sia-1663045",
    "company": "Dardedze Hologrāfija, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -96,16 +75,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660442",
    "title": "People Lead/ Scrum Master",
    "url": "https://www.cvmarket.lv/people-lead-scrum-master-riga-swisscom-devops-center-latvia-sia-1660442",
    "company": "Swisscom DevOps Center Latvia, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -113,16 +90,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1663054",
    "title": "Paplašinoties aicinām komandā - Digitālās ražošanas iekārtu opertorus/-es",
    "url": "https://www.cvmarket.lv/paplasinoties-aicinam-komanda-digitalas-razosanas-iekartu-opertorus-es-riga-livonia-print-sia-1663054",
    "company": "LIVONIA PRINT, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -130,16 +105,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662758",
    "title": "Klientu apkalpošanas un pakalpojumu piegādes direktors/-e",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-un-pakalpojumu-piegades-direktors-e-riga-tet-1662758",
    "company": "Tet",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -148,7 +121,7 @@
     "support"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -156,7 +129,7 @@
    "title": "Digitālās pārdošanas speciālists/-e",
    "url": "https://www.cvmarket.lv/digitalas-pardosanas-specialists-e-riga-1663059",
    "company": "CVMarket.lv klients",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -164,33 +137,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1661955",
-   "title": "Biroja administrators/-e",
-   "url": "https://www.cvmarket.lv/biroja-administrators-e-marupes-novads-elektrika-sia-1661955",
-   "company": "ELEKTRIKA, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661970",
    "title": "Projektu vadītāja asistents/-e",
    "url": "https://www.cvmarket.lv/projektu-vaditaja-asistents-e-riga-riga-prints-sia-1661970",
    "company": "RĪGA Prints, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -198,16 +152,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660478",
    "title": "Tirdzniecības asistents/-e projektu tirdzniecības nodaļā (Apkure, ūdensapgāde, ventilācija un ārējie tīkli)",
    "url": "https://www.cvmarket.lv/tirdzniecibas-asistents-e-projektu-tirdzniecibas-nodala-apkure-udensapgade-ventilacija-un-arejie-tikli-riga-sanistal-sia-1660478",
    "company": "SANISTAL, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -215,50 +167,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662942",
-   "title": "Enerģētiķa tehniskais/-ā asistents/-e",
-   "url": "https://www.cvmarket.lv/energetika-tehniskais-a-asistents-e-smiltenes-novads-firma-madara-89-sia-1662942",
-   "company": "FIRMA MADARA 89, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1663029",
-   "title": "Krāsu jaukšanas asistents/-e",
-   "url": "https://www.cvmarket.lv/krasu-jauksanas-asistents-e-adazu-novads-kinetics-nail-systems-sia-1663029",
-   "company": "Kinetics Nail Systems, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660527",
    "title": "Veterinārārsta asistents/-e klīnikā",
    "url": "https://www.cvmarket.lv/veterinararsta-asistents-e-klinika-riga-zoo-centrs-sia-1660527",
    "company": "ZOO Centrs, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -266,9 +182,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660512",
@@ -292,7 +206,7 @@
    "title": "Secretary and Administrative Assistant",
    "url": "https://www.cvmarket.lv/secretary-and-administrative-assistant-darbs-no-majam-archimede-solutions-1660547",
    "company": "Archimede Solutions",
-   "location": "",
+   "location": "Darbs no mājām",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -301,7 +215,7 @@
     "admin"
    ],
    "tags": [
-    "no_city"
+    "remote"
    ]
   },
   {
@@ -309,7 +223,7 @@
    "title": "Transporta koordinators/-e",
    "url": "https://www.cvmarket.lv/transporta-koordinators-e-riga-head-sia-1660643",
    "company": "HEAD, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -318,7 +232,7 @@
     "admin"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -339,28 +253,11 @@
    ]
   },
   {
-   "id": "cvm-1660604",
-   "title": "GRUPAS ILGTSPĒJAS KOORDINATORS/-E",
-   "url": "https://www.cvmarket.lv/grupas-ilgtspejas-koordinators-e-liepaja-caljan-lsez-sia-1660604",
-   "company": "Caljan LSEZ SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
    "id": "cvm-1663068",
    "title": "Viesnīcas administrators/-e (Wellton Riverside SPA Hotel)",
    "url": "https://www.cvmarket.lv/viesnicas-administrators-e-wellton-riverside-spa-hotel-riga-mogotel-mv-sia-1663068",
    "company": "Mogotel MV SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -368,9 +265,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "ss-58032569",
@@ -1152,28 +1047,11 @@
    "tags": []
   },
   {
-   "id": "cvm-1660694",
-   "title": "Montāžnieki/-ces un montāžas brigāžu vadītāji/-as darbam Vācijā",
-   "url": "https://www.cvmarket.lv/montaznieki-ces-un-montazas-brigazu-vaditaji-as-darbam-vacija-vacija-razer-sia-1660694",
-   "company": "Razer, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "ai"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
    "id": "cvm-1663065",
    "title": "Informācijas un komunikācijas tehnoloģiju pārvaldības nodaļas galvenais/-ā speciālists/-e (datu pārvaldnieks/-ce)",
    "url": "https://www.cvmarket.lv/informacijas-un-komunikacijas-tehnologiju-parvaldibas-nodalas-galvenais-a-specialists-e-datu-parvaldnieks-ce-riga-valsts-policija-1663065",
    "company": "Valsts policija",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -1181,16 +1059,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661059",
    "title": "Klientu apkalpošanas speciālists/-e TC \"Akropole Rīga\"",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-tc-akropole-riga-riga-davanu-serviss-sia-1661059",
    "company": "Dāvanu Serviss, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -1198,16 +1074,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1660766",
    "title": "Klientu apkalpošanas speciālists/-e Domina Skypark uz pilnu/nepilnu slodzi",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-domina-skypark-uz-pilnunepilnu-slodzi-riga-apl-skypark-sia-1660766",
    "company": "APL Skypark, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
@@ -1215,9 +1089,7 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cv-1683119",
@@ -1257,7 +1129,7 @@
    "title": "Junior Specialist in Automated Marketing",
    "url": "https://www.cvmarket.lv/junior-specialist-in-automated-marketing-riga-swedbank-as-1663021",
    "company": "Swedbank, AS",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-18",
@@ -1265,9 +1137,7 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1663016",
@@ -1807,7 +1677,7 @@
    "title": "Jaunākais/-ā ražošanas personāla speciālists/-e",
    "url": "https://www.cvmarket.lv/jaunakais-a-razosanas-personala-specialists-e-riga-kronus-sia-1662937",
    "company": "Kronus, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1815,16 +1685,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662922",
    "title": "Data & AI PMO | Manager | Latvia",
    "url": "https://www.cvmarket.lv/data-ai-pmo-manager-latvia-riga-deloitte-latvia-sia-1662922",
    "company": "Deloitte Latvia, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1833,7 +1701,7 @@
     "ai"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -1841,7 +1709,7 @@
    "title": "APMĀCĪBU VADĪTĀJS",
    "url": "https://www.cvmarket.lv/apmacibu-vaditajs-riga-as-lido-1662956",
    "company": "AS LIDO",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1849,16 +1717,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662913",
    "title": "Senior Category Manager- Digital & IT",
    "url": "https://www.cvmarket.lv/senior-category-manager-digital-it-riga-cabot-latvia-sia-1662913",
    "company": "Cabot Latvia, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1867,7 +1733,7 @@
     "marketing"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -1875,7 +1741,7 @@
    "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Rīgā, Mazā Nometņu 30",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-riga-maza-nometnu-30-riga-olympic-casino-latvia-sia-1662953",
    "company": "Olympic Casino Latvia, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1883,16 +1749,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662881",
    "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Berģos",
    "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-bergos-riga-depo-diy-sia-1662881",
    "company": "DEPO DIY, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1900,16 +1764,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662951",
    "title": "Būvdarbu vadītāja palīgs(-dze) / Tehniskais/-ā lietvedis/-e",
    "url": "https://www.cvmarket.lv/buvdarbu-vaditaja-paligs-dze-tehniskais-a-lietvedis-e-riga-rigensi-sia-1662951",
    "company": "RIGENSI, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
@@ -1917,9 +1779,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "ss-56974129",
@@ -2842,7 +2702,7 @@
    "title": "Biroja un klientu attiecību koordinators/-e (ar vācu valodas zināšanām)",
    "url": "https://www.cvmarket.lv/biroja-un-klientu-attiecibu-koordinators-e-ar-vacu-valodas-zinasanam-riga-usus-sia-1662861",
    "company": "Usus, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
@@ -2850,16 +2710,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662793",
    "title": "Cenu un mārketinga materiālu koordinators veikalā",
    "url": "https://www.cvmarket.lv/cenu-un-marketinga-materialu-koordinators-veikala-riga-maxima-1662793",
    "company": "MAXIMA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
@@ -2868,9 +2726,7 @@
     "marketing",
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "ss-38517239",
@@ -3666,7 +3522,7 @@
    "title": "Tīmekļa satura pārvaldības speciālists/-e / Web Content Manager (CMS)",
    "url": "https://www.cvmarket.lv/timekla-satura-parvaldibas-specialists-e-web-content-manager-cms-riga-tonybet-sia-1662749",
    "company": "Tonybet, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
@@ -3674,16 +3530,14 @@
    "groups": [
     "web"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662747",
    "title": "KLIENTU APKALPOŠANAS SPECIĀLISTS ZVANU CENTRĀ Klientu informācijas un apkalpošanas daļā",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-zvanu-centra-klientu-informacijas-un-apkalposanas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662747",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
@@ -3691,9 +3545,7 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cv-1678488",
@@ -3735,7 +3587,7 @@
    "title": "KLIENTU APKALPOŠANAS SPECIĀLISTS NMC Klientu informācijas un apkalpošanas daļā",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-nmc-klientu-informacijas-un-apkalposanas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662746",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
@@ -3743,16 +3595,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661453",
    "title": "KOKOS meklē vecāko administratoru/-i",
    "url": "https://www.cvmarket.lv/kokos-mekle-vecako-administratoru-i-riga-kokos-sia-1661453",
    "company": "KOKOS, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
@@ -3760,16 +3610,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662736",
    "title": "ATALGOJUMA SPECIĀLISTS Personāla vadības daļā",
    "url": "https://www.cvmarket.lv/atalgojuma-specialists-personala-vadibas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662736",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
@@ -3778,7 +3626,7 @@
     "hr"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -3866,7 +3714,7 @@
    "title": "Klientu apkalpošanas darbinieks/-ce \"LIDO Ķirsons māja\"",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-lido-kirsons-maja-riga-as-lido-1662741",
    "company": "AS LIDO",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
@@ -3874,33 +3722,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662658",
-   "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Jelgavā, Pasta 51/1",
-   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-jelgava-pasta-511-jelgava-olympic-casino-latvia-sia-1662658",
-   "company": "Olympic Casino Latvia, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-14",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661648",
    "title": "KOKOS meklē grāmatvedības asistentu/-i",
    "url": "https://www.cvmarket.lv/kokos-mekle-gramatvedibas-asistentu-i-riga-kokos-sia-1661648",
    "company": "KOKOS, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
@@ -3908,16 +3737,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662612",
    "title": "Talent Acquisition Partner (Swedish language)/ Talantu piesaistes partneris/-e (Zviedru valoda)",
    "url": "https://www.cvmarket.lv/talent-acquisition-partner-swedish-language-talantu-piesaistes-partneris-e-zviedru-valoda-riga-transcom-worldwide-latvia-sia-1662612",
    "company": "TRANSCOM WORLDWIDE LATVIA, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
@@ -3926,41 +3753,7 @@
     "hr"
    ],
    "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662584",
-   "title": "BĀZES PAKALPOJUMU KOORDINATORS / BASE SERVICE COORDINATOR",
-   "url": "https://www.cvmarket.lv/bazes-pakalpojumu-koordinators-base-service-coordinator-adazu-novads-global-rts-ltd-1662584",
-   "company": "GLOBAL RTS LTD",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662603",
-   "title": "Iepirkumu asistents/-e",
-   "url": "https://www.cvmarket.lv/iepirkumu-asistents-e-marupes-novads-rolling-sia-1662603",
-   "company": "Rolling, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -3968,7 +3761,7 @@
    "title": "Koordinators/-e",
    "url": "https://www.cvmarket.lv/koordinators-e-riga-scanbalt-crane-ou-latvijas-filiale-1662633",
    "company": "ScanBalt Crane OU Latvijas filiāle",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
@@ -3977,7 +3770,7 @@
     "admin"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -3985,7 +3778,7 @@
    "title": "Inventarizācijas administrators/-e",
    "url": "https://www.cvmarket.lv/inventarizacijas-administrators-e-riga-maxima-1662606",
    "company": "MAXIMA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
@@ -3993,9 +3786,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "ss-58288361",
@@ -4564,7 +4355,7 @@
    "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Rīgā, Brīvības gatvē 432",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-riga-brivibas-gatve-432-riga-olympic-casino-latvia-sia-1662599",
    "company": "Olympic Casino Latvia, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
@@ -4572,9 +4363,7 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662046",
@@ -4598,7 +4387,7 @@
    "title": "Digitālā mārketinga speciālists/-e",
    "url": "https://www.cvmarket.lv/digitala-marketinga-specialists-e-riga-gaso-as-1662467",
    "company": "Gaso, AS",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4607,7 +4396,7 @@
     "marketing"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -4615,7 +4404,7 @@
    "title": "\"JD Sports\" Koordinators/-e TC \"Akropole Alfa\"",
    "url": "https://www.cvmarket.lv/jd-sports-koordinators-e-tc-akropole-alfa-riga-marketing-investment-group-latvia-sia-1662545",
    "company": "Marketing Investment Group Latvia, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4623,33 +4412,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662422",
-   "title": "Telemārketinga speciālists/-e",
-   "url": "https://www.cvmarket.lv/telemarketinga-specialists-e-cesu-novads-plainstream-sia-1662422",
-   "company": "Plainstream, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "marketing"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662526",
    "title": "Web Designer",
    "url": "https://www.cvmarket.lv/web-designer-riga-swedbank-as-1662526",
    "company": "Swedbank, AS",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4657,16 +4427,14 @@
    "groups": [
     "web"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662460",
    "title": "Klientu apkalpošanas speciālists/-e",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-riga-tf-bank-ab-akf-1662460",
    "company": "TF Bank AB, AKF",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4674,16 +4442,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662455",
    "title": "Biroja administrators/-e / Pārdošanas asistents/-e",
    "url": "https://www.cvmarket.lv/biroja-administrators-e-pardosanas-asistents-e-riga-muizas-piens-sia-1662455",
    "company": "MUIŽAS PIENS, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4691,16 +4457,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661347",
    "title": "Klientu apkalpošanas speciālists/-e",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-riga-evorm-ltd-sia-1661347",
    "company": "EVORM LTD, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4708,33 +4472,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1661080",
-   "title": "Administrators/-e",
-   "url": "https://www.cvmarket.lv/administrators-e-daugavpils-evorm-ltd-sia-1661080",
-   "company": "EVORM LTD, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662488",
    "title": "Vecākais/-ā personāla inspektors/-e",
    "url": "https://www.cvmarket.lv/vecakais-a-personala-inspektors-e-riga-rigas-socialais-dienests-1662488",
    "company": "Rīgas Sociālais dienests",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4743,41 +4488,7 @@
     "hr"
    ],
    "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662137",
-   "title": "Personāla atlases speciālists/-e",
-   "url": "https://www.cvmarket.lv/personala-atlases-specialists-e-marupes-novads-almatex-sia-1662137",
-   "company": "ALMATEX, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1660910",
-   "title": "Pārdošanas asistents/-e / Klientu attiecību speciālists/-e",
-   "url": "https://www.cvmarket.lv/pardosanas-asistents-e-klientu-attiecibu-specialists-e-marupes-novads-artania-sia-1660910",
-   "company": "ARTANIA, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -4785,7 +4496,7 @@
    "title": "Prakses grupas asistents/-e (uz noteiktu laiku līdz 2 gadiem)",
    "url": "https://www.cvmarket.lv/prakses-grupas-asistents-e-uz-noteiktu-laiku-lidz-2-gadiem-riga-workingday-latvia-sia-1662151",
    "company": "WORKINGDAY LATVIA, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4794,7 +4505,7 @@
     "admin"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -4802,7 +4513,7 @@
    "title": "Product Manager, Virtual Assistants Platform",
    "url": "https://www.cvmarket.lv/product-manager-virtual-assistants-platform-riga-tilde-sia-1662400",
    "company": "TILDE, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4810,16 +4521,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662499",
    "title": "Biroja administrators/-e",
    "url": "https://www.cvmarket.lv/biroja-administrators-e-riga-latvijas-eksportetaju-asociacija-the-red-jackets-1662499",
    "company": "Latvijas Eksportētāju Asociācija \"The Red Jackets\"",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4828,7 +4537,7 @@
     "admin"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -4836,7 +4545,7 @@
    "title": "Biroja administrators/-e",
    "url": "https://www.cvmarket.lv/biroja-administrators-e-riga-indexo-banka-as-1662395",
    "company": "INDEXO Banka, AS",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4844,33 +4553,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1662434",
-   "title": "Kvalitātes asistents/-e",
-   "url": "https://www.cvmarket.lv/kvalitates-asistents-e-liepaja-silkeborg-spaantagning-baltic-sia-1662434",
-   "company": "Silkeborg Spaantagning Baltic, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662160",
    "title": "Spa Asistents/-e",
    "url": "https://www.cvmarket.lv/spa-asistents-e-riga-viesnica-latvija-sia-1662160",
    "company": "\"VIESNĪCA \"LATVIJA\", SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4878,16 +4568,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662103",
    "title": "Medicīnas asistents (Pieteikumu sistēma STUDENTIEM)",
    "url": "https://www.cvmarket.lv/medicinas-asistents-pieteikumu-sistema-studentiem-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662103",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4895,16 +4583,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662101",
    "title": "RADIOLOGA ASISTENTS Onkoloģijas klīnikā",
    "url": "https://www.cvmarket.lv/radiologa-asistents-onkologijas-klinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662101",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4912,16 +4598,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661981",
    "title": "Personāla lietvedis/-e",
    "url": "https://www.cvmarket.lv/personala-lietvedis-e-riga-depo-diy-sia-1661981",
    "company": "DEPO DIY, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4930,16 +4614,14 @@
     "hr",
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662320",
    "title": "SPA administrators/-e (Wellton Riverside SPA Hotel)",
    "url": "https://www.cvmarket.lv/spa-administrators-e-wellton-riverside-spa-hotel-riga-mogotel-mv-sia-1662320",
    "company": "Mogotel MV SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4947,16 +4629,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662306",
    "title": "Administrators/-e / Администратор",
    "url": "https://www.cvmarket.lv/administrators-e-administrator-riga-foodmir-sia-1662306",
    "company": "FOODMIR, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -4964,9 +4644,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "ss-58032597",
@@ -5255,28 +4933,11 @@
    ]
   },
   {
-   "id": "cvm-1662169",
-   "title": "Personāla speciālists/-e",
-   "url": "https://www.cvmarket.lv/personala-specialists-e-adazu-novads-am-nbs-nodrosinajuma-pavelniecibas-3regionalais-nodrosinajuma-centrs-1662169",
-   "company": "AM NBS Nodrošinājuma pavēlniecības 3.Reģionālais nodrošinājuma centrs",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
    "id": "cvm-1661949",
    "title": "PERSONĀLA VADĪTĀJS/-A​",
    "url": "https://www.cvmarket.lv/personala-vaditajs-a-riga-barbora-lv-1661949",
    "company": "Barbora LV",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5285,7 +4946,7 @@
     "hr"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -5293,7 +4954,7 @@
    "title": "Grāmatu ražošanas iekārtu operatori/-es (apmācība nodrošināta)",
    "url": "https://www.cvmarket.lv/gramatu-razosanas-iekartu-operatori-es-apmaciba-nodrosinata-riga-livonia-print-sia-1662165",
    "company": "Livonia Print, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5301,16 +4962,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662034",
    "title": "Klientu apkalpošanas speciālists/-e",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-latvija-transcom-worldwide-latvia-sia-1662034",
    "company": "TRANSCOM WORLDWIDE LATVIA, SIA",
-   "location": "",
+   "location": "Latvija / Attālināti",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5319,7 +4978,7 @@
     "support"
    ],
    "tags": [
-    "no_city"
+    "remote"
    ]
   },
   {
@@ -5327,7 +4986,7 @@
    "title": "Praktikante/-s Klientu apkalpošanā Land Rover autocentrā",
    "url": "https://www.cvmarket.lv/praktikante-s-klientu-apkalposana-land-rover-autocentra-riga-inchcape-motors-latvia-sia-1662408",
    "company": "Inchcape Motors Latvia, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5335,16 +4994,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662334",
    "title": "Klientu apkalpošanas darbinieks/-ce Spice",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-spice-riga-as-lido-1662334",
    "company": "AS LIDO",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5352,16 +5009,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662253",
    "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a (ar lietuviešu valodas zināšanām)",
    "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-ar-lietuviesu-valodas-zinasanam-riga-depo-diy-sia-1662253",
    "company": "DEPO DIY, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5369,33 +5024,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1660986",
-   "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Siguldā, Ausekļa ielā 5A (0,5 slodze)",
-   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-sigulda-ausekla-iela-5a-05-slodze-siguldas-novads-olympic-casino-latvia-sia-1660986",
-   "company": "Olympic Casino Latvia, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662191",
    "title": "Klientu apkalpošanas speciālists/-e (ar dāņu valodas zināšanām)",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-ar-danu-valodas-zinasanam-riga-kronospan-riga-sia-1662191",
    "company": "KRONOSPAN Riga, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5403,16 +5039,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662129",
    "title": "KLIENTU APKALPOŠANAS SPECIĀLISTS PLĀNVEIDA UZŅEMŠANĀ Klientu informācijas un apkalpošanas daļā",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-planveida-uznemsana-klientu-informacijas-un-apkalposanas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662129",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5420,16 +5054,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662051",
    "title": "Klientu apkalpošanas speciālists Reģistratūrā POLIKLĪNIKĀ",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-registratura-poliklinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662051",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5437,16 +5069,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1662527",
    "title": "Digital Asset and Cost Manager",
    "url": "https://www.cvmarket.lv/digital-asset-and-cost-manager-riga-cabot-latvia-sia-1662527",
    "company": "Cabot Latvia, SIA",
-   "location": "",
+   "location": "Rīga / Hibrīddarbs",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
@@ -5455,7 +5085,7 @@
     "marketing"
    ],
    "tags": [
-    "no_city"
+    "hybrid"
    ]
   },
   {
@@ -6084,7 +5714,7 @@
    "title": "Mārketinga speciālists/-e",
    "url": "https://www.cvmarket.lv/marketinga-specialists-e-riga-kreiss-sia-1661670",
    "company": "Kreiss, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6092,33 +5722,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1661441",
-   "title": "Personāla vadītājs/-a – daudzkultūru ražošanas komanda",
-   "url": "https://www.cvmarket.lv/personala-vaditajs-a-daudzkulturu-razosanas-komanda-olaines-novads-kornbest-sia-1661441",
-   "company": "Kornbest, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661705",
    "title": "Telemārketinga speciālists/-e / Klientu konsultants/-e",
    "url": "https://www.cvmarket.lv/telemarketinga-specialists-e-klientu-konsultants-e-riga-enivo-sia-1661705",
    "company": "enivo, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6126,16 +5737,14 @@
    "groups": [
     "marketing"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661806",
    "title": "Junior CRM Specialist, AI-first",
    "url": "https://www.cvmarket.lv/junior-crm-specialist-ai-first-riga-picanova-gmbh-filiale-picanova-baltics-1661806",
    "company": "Picanova GmbH filiāle \"Picanova Baltics\"",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6143,16 +5752,14 @@
    "groups": [
     "ai"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661603",
    "title": "FREELANCE RECRUITMENT PARTNER – Join Weekend's Baltic Team!",
    "url": "https://www.cvmarket.lv/freelance-recruitment-partner-join-weekends-baltic-team-riga-weekend-eesti-ou-1661603",
    "company": "Weekend Eesti OÜ",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6160,16 +5767,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661827",
    "title": "Personāla atlases speciālists/-e",
    "url": "https://www.cvmarket.lv/personala-atlases-specialists-e-riga-hd-logistics-group-sia-1661827",
    "company": "HD Logistics Group, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6177,16 +5782,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661726",
    "title": "Personāla atlases speciālists/-e",
    "url": "https://www.cvmarket.lv/personala-atlases-specialists-e-riga-sia-biuro-1661726",
    "company": "SIA \"Biuro\"",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6194,16 +5797,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661754",
    "title": "Biroja administrators/-e",
    "url": "https://www.cvmarket.lv/biroja-administrators-e-riga-vitum-sia-1661754",
    "company": "Vitum SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6211,33 +5812,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cvm-1661502",
-   "title": "Tāmētāja asistents/-e",
-   "url": "https://www.cvmarket.lv/tametaja-asistents-e-liepaja-upb-as-1661502",
-   "company": "UPB, AS",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661700",
    "title": "Administrators/-e (zāles pārzinis/-e) \"Čili Pizza\" picērijā Rīgā (Pļavnieki)",
    "url": "https://www.cvmarket.lv/administrators-e-zales-parzinis-e-cili-pizza-picerija-riga-plavnieki-riga-tiamo-grupa-sia-1661700",
    "company": "TIAMO GRUPA, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6245,16 +5827,14 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661518",
    "title": "ADMINISTRATORS Anestezioloģijas un reanimatoloģijas klīnikā",
    "url": "https://www.cvmarket.lv/administrators-anesteziologijas-un-reanimatologijas-klinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1661518",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6262,9 +5842,7 @@
    "groups": [
     "admin"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cv-1677761",
@@ -6389,7 +5967,7 @@
    "title": "ATLASES UN APMĀCĪBU SPECIĀLISTS Personāla vadības daļā",
    "url": "https://www.cvmarket.lv/atlases-un-apmacibu-specialists-personala-vadibas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1661807",
    "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6397,16 +5975,14 @@
    "groups": [
     "hr"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661636",
    "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Imantā",
    "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-imanta-riga-depo-diy-sia-1661636",
    "company": "DEPO DIY, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6414,16 +5990,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661635",
    "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Krasta ielā",
    "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-krasta-iela-riga-depo-diy-sia-1661635",
    "company": "DEPO DIY, SIA",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6431,16 +6005,14 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   },
   {
    "id": "cvm-1661552",
    "title": "Klientu apkalpošanas darbinieks/-ce \"Lido Atpūtas centrs\"",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-lido-atputas-centrs-riga-as-lido-1661552",
    "company": "AS LIDO",
-   "location": "",
+   "location": "Rīga",
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-05",
@@ -6448,9 +6020,7 @@
    "groups": [
     "support"
    ],
-   "tags": [
-    "no_city"
-   ]
+   "tags": []
   }
  ]
 }
