@@ -1,0 +1,75 @@
+{
+  "_help": "Слова до 4 букв (AI, HR, SMM, web) ищутся только как отдельное слово. Длинные — как начало/часть слова: 'personāl' поймает 'personāla', 'personālvadība'. Регистр не важен.",
+
+  "max_pages_per_search": 4,
+  "archive_days": 14,
+
+  "groups": [
+    {
+      "id": "ai",
+      "name": "AI и контент",
+      "search": ["mākslīgais intelekts", "mākslīgā intelekta", "AI", "content creator", "satura veidotājs", "UGC", "video", "prompt", "copywriter", "tekstu autors"],
+      "title": ["mākslīg", "intelekt", "ai", "ии", "нейросет", "prompt", "промпт", "generative", "ģeneratīv", "content creator", "satura veidotāj", "satura radītāj", "контент", "ugc", "video", "видео", "montāž", "монтаж", "copywrit", "копирайт", "tekstu autor", "chatgpt"],
+      "description": ["mākslīg", "ai", "ии", "нейросет", "prompt", "generative", "chatgpt", "ugc", "content creator", "satura veidotāj"]
+    },
+    {
+      "id": "marketing",
+      "name": "Маркетинг / SMM",
+      "search": ["mārketing", "marketing", "SMM", "sociālo tīklu", "sociālie mediji", "social media", "zīmola", "komunikācijas", "sabiedrisko attiecību"],
+      "title": ["mārketing", "marketing", "маркетинг", "smm", "social media", "sociālo tīkl", "sociālo mediju", "sociālie medij", "соцсет", "таргет", "digitāl", "digital", "zīmol", "brand", "pr", "komunikācij", "communication", "коммуникац", "sabiedrisko attiecību", "reklām"],
+      "description": ["smm", "social media", "sociālo tīkl"]
+    },
+    {
+      "id": "hr",
+      "name": "HR / рекрутинг",
+      "search": ["personāla", "HR", "recruiter", "recruitment", "rekrutēšanas", "personāla atlase", "talent", "kadru", "apmācību"],
+      "title": ["hr", "hrbp", "personāl", "personnel", "people partner", "people", "recruit", "rekrut", "рекрут", "talent", "kadru", "кадр", "персонал", "подбор", "l&d", "apmācīb", "training"],
+      "description": []
+    },
+    {
+      "id": "edu",
+      "name": "Онлайн-школы",
+      "search": ["kurators", "e-mācību", "tiešsaistes", "mentor", "online"],
+      "title": ["kurator", "куратор", "curator", "tiešsaistes skol", "e-mācīb", "e-learning", "онлайн-школ", "mentor", "ментор", "наставник", "tutor"],
+      "description": []
+    },
+    {
+      "id": "support",
+      "name": "Онлайн-поддержка",
+      "search": ["klientu atbalsta", "customer support", "customer success", "atbalsta speciālists", "klientu apkalpošanas"],
+      "title": ["klientu atbalst", "atbalsta speciālist", "support", "поддержк", "customer success", "help desk", "helpdesk", "klientu apkalpošan", "customer service"],
+      "description": []
+    },
+    {
+      "id": "web",
+      "name": "Сайты",
+      "search": ["mājaslapas", "website", "WordPress", "e-komercijas", "e-commerce", "content manager", "satura administrators"],
+      "title": ["mājaslap", "website", "web", "вебсайт", "сайт", "wordpress", "tilda", "shopify", "e-komercij", "e-commerce", "ecommerce", "satura administrator", "satura vadītāj", "content manager", "контент-менеджер"],
+      "description": ["wordpress", "shopify", "tilda"]
+    },
+    {
+      "id": "admin",
+      "name": "Администрирование",
+      "search": ["biroja administrators", "office manager", "asistents", "assistant", "koordinators", "lietvedis", "administrators"],
+      "title": ["administrator", "administrātor", "администратор", "biroja", "office manager", "офис-менеджер", "asistent", "assistant", "ассистент", "koordinator", "coordinator", "координатор", "lietved", "administratīv", "administrative", "secretary", "sekretār"],
+      "description": []
+    }
+  ],
+
+  "extra_searches": ["attālināti", "attālinātais darbs", "remote", "darbs no mājām", "hibrīd"],
+
+  "exclude_title": [
+    "programmētāj", "programmer", "programming", "izstrādātāj", "developer", "engineer", "inženier",
+    "software", "devops", "data scientist", "data engineer", "qa", "tester", "testētāj", "testing",
+    "java", "python", ".net", "php", "frontend", "front-end", "backend", "back-end", "full stack", "fullstack",
+    "machine learning", "ml", "sistēmu", "informācijas sistēm", "drošības administrator", "sistēmu administrator", "system administrator", "it administrator",
+    "tīkla administrator", "network", "it atbalst", "it support", "technical support", "tehniskā atbalst",
+    "программист", "разработчик",
+    "pārdošanas konsultant", "kasier", "noliktav", "šofer", "autovadītāj", "driver", "palīgstrādniek"
+  ],
+
+  "remote_words": ["attālinā", "remote", "home office", "darbs no mājām", "no mājām", "удалённ", "удаленн", "work from home"],
+  "hybrid_words": ["hibrīd", "hybrid", "гибрид"],
+  "allowed_cities": ["rīga", "riga", "рига", "salaspils", "саласпилс", "ogre", "огре"],
+  "unknown_location_words": ["", "latvija", "latvia", "visa latvija", "dažādas vietas"]
+}
