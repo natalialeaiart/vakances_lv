@@ -15,6 +15,8 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
@@ -114,8 +116,18 @@ def short(s, n):
     return s if len(s) <= n else s[:n].rsplit(" ", 1)[0] + "…"
 
 
+def make_session():
+    """Сессия с повтором при обрыве связи: 2 повтора с паузой ~5 и ~10 секунд."""
+    s = requests.Session()
+    retry = Retry(total=2, connect=2, read=2, backoff_factor=5,
+                  status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET",),
+                  raise_on_status=False)
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    return s
+
+
 def get(session, url, **kw):
-    r = session.get(url, headers=HEADERS, timeout=30, **kw)
+    r = session.get(url, headers=HEADERS, timeout=(10, 30), **kw)
     r.raise_for_status()
     time.sleep(PAUSE)
     return r
@@ -209,9 +221,11 @@ def collect_cvmarket(session, today):
     for q in all_queries():
         n = 0
         for page in range(CONFIG.get("cvmarket_max_pages", 3)):
+            params = {"op": "search", "search[keyword]": q}
+            if page:  # start=0 сайт понимает как «без поиска» и отдаёт всю базу
+                params["start"] = page * 30
             try:
-                r = get(session, f"{base}/darba-piedavajumi",
-                        params={"op": "search", "search[keyword]": q, "start": page * 30})
+                r = get(session, f"{base}/darba-piedavajumi", params=params)
             except requests.HTTPError as e:
                 if page == 0:  # следующей страницы нет — это не ошибка
                     errors += 1
@@ -230,7 +244,7 @@ def collect_cvmarket(session, today):
                 title = clean(h.get_text(" "))
                 company = clean(comp.get_text(" ")) if comp else ""
                 city = art.select_one(".location")
-                location = clean(city.get_text(" ")) if city else cvmarket_city(art, title, company)
+                location = (clean(city.get_text(" ")) if city else "") or cvmarket_city(art, title, company)
                 date = next((s.get_text(strip=True) for s in art.select("span")
                              if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
                 href = a["href"]
@@ -321,7 +335,7 @@ SOURCES = {"cv.lv": collect_cvlv, "cvmarket.lv": collect_cvmarket, "ss.lv": coll
 def main():
     now = datetime.now(TZ)
     today = now.date()
-    session = requests.Session()
+    session = make_session()
     found, keys, failed = {}, set(), []
 
     enabled = CONFIG.get("sources", {k: True for k in SOURCES})
