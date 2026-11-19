@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 13:22",
+ "updated": "2026-11-19 13:26",
  "today": "2026-11-19",
  "groups": [
   {
@@ -1218,6 +1218,39 @@
    "tags": [
     "no_city"
    ]
+  },
+  {
+   "id": "cv-1683119",
+   "title": "Autosalona administrators/-e un pārdošanas atbalsta speciālists/-e",
+   "url": "https://www.cv.lv/lv/vacancy/1683119",
+   "company": "Mūsa Motors Rīga SIA",
+   "location": "Rīga",
+   "description": "Volvo Cars ir pirmais automobiļu ražošanas uzņēmums pasaulē, kurš izveidojis jauna tipa auto darbnīcas, kas palīdzēs klientiem atvieglot rūpes par automobili. Atsakoties no vecajām darba metodēm, esam pieņēmuši jaunu stratēģiju tehniskās apkopes un remonta veikšanai auto darbnīcā. Mēs to dēvējam…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "ON_SITE",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support",
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cv-1683121",
+   "title": "Office Manager (Biroja vadītājs/-a)",
+   "url": "https://www.cv.lv/lv/vacancy/1683121",
+   "company": "Grafton Latvia SIA",
+   "location": "Rīga",
+   "description": "Founded in early 2010, our client is a global data MVNO that delivers enterprise-grade global connectivity and IoT services across more than 200 countries and 600+ mobile carriers' networks. Their secured network provides advanced network protection and web content intelligence. Through a powerful,…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "ON_SITE",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
   },
   {
    "id": "cvm-1663021",
