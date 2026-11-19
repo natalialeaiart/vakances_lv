@@ -48,6 +48,8 @@
   .job.seen{opacity:.45}
   .empty{color:var(--muted);font-style:italic;font-family:var(--serif);padding:14px 0}
   footer{margin-top:50px;color:var(--muted);font-size:12px}
+  footer a{color:inherit;text-underline-offset:2px}
+  footer a:hover{color:var(--ink)}
   @media (max-width:560px){ header h1{font-size:34px} .job a.t{font-size:18px} }
 </style>
 </head>
@@ -72,7 +74,7 @@
   <h2>Архив · <span id="days">14</span> дней <b id="nOld"></b></h2>
   <div id="archive"></div>
 
-  <footer>Источники: cv.lv · cvmarket.lv · ss.lv · обновляется раз в день</footer>
+  <footer>Источники: cv.lv · cvmarket.lv · ss.lv · обновляется раз в день · <a href="https://github.com/natalialeaiart/vakances_lv/actions/workflows/daily.yml" target="_blank" rel="noopener">запустить вручную</a></footer>
 </div>
 
 <script>
