@@ -1,15 +1,16 @@
 """
-Бот вакансий kurdarbs.lv
-Раз в день ищет вакансии по словам из config.json, фильтрует и сохраняет в data/jobs.json.
+Бот вакансий: cv.lv, cvmarket.lv, ss.lv
+Раз в день собирает вакансии, фильтрует по config.json и сохраняет в data/jobs.json.
 Страница index.html читает этот файл и показывает ленту.
 """
 import json
 import re
 import sys
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 import requests
@@ -18,13 +19,13 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 DATA_FILE = ROOT / "data" / "jobs.json"
-BASE = "https://www.kurdarbs.lv"
 TZ = ZoneInfo("Europe/Riga")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/130.0 Safari/537.36",
     "Accept-Language": "lv,en;q=0.8,ru;q=0.6",
 }
+PAUSE = 1.2  # секунд между запросами к одному сайту
 
 
 # ---------- сопоставление слов ----------
@@ -65,7 +66,9 @@ UNKNOWN_LOC = {w.lower() for w in CONFIG["unknown_location_words"]}
 
 def classify(job):
     """Возвращает (группы, совпало_по_описанию) или None, если вакансия не подходит."""
-    title, desc = job["title"], job["description"]
+    # у ss.lv название — начало текста объявления, поэтому добавляем профессию из раздела
+    title = f'{job["title"]} {job.get("profession", "")}'
+    desc = job["description"]
     if EXCLUDE and EXCLUDE.search(title):
         return None
     groups, by_desc = [], False
@@ -84,8 +87,8 @@ def location_tags(job):
     """Удалёнка — вся Латвия; офис/гибрид — только разрешённые города; без города — оставляем."""
     text = f'{job["title"]} {job["description"]} {job["location"]}'
     tags = []
-    remote = bool(REMOTE and REMOTE.search(text))
-    hybrid = bool(HYBRID and HYBRID.search(text))
+    remote = bool(REMOTE and REMOTE.search(text)) or job.get("remote_type") == "FULLY_REMOTE"
+    hybrid = bool(HYBRID and HYBRID.search(text)) or job.get("remote_type") == "HYBRID"
     loc = job["location"].strip().lower()
     if remote:
         tags.append("remote")
@@ -100,77 +103,168 @@ def location_tags(job):
     return None  # другой город, не удалёнка
 
 
-# ---------- разбор страницы ----------
+# ---------- общее ----------
 
-REL = re.compile(r"pirms\s+(\d+)\s+(min|stund|dien|nedēļ|mēneš)", re.IGNORECASE)
+def clean(s):
+    return re.sub(r"\s+", " ", (s or "").replace("\xa0", " ")).strip()
+
+
+def short(s, n):
+    s = clean(s)
+    return s if len(s) <= n else s[:n].rsplit(" ", 1)[0] + "…"
+
+
+def get(session, url, **kw):
+    r = session.get(url, headers=HEADERS, timeout=30, **kw)
+    r.raise_for_status()
+    time.sleep(PAUSE)
+    return r
+
+
+REL = re.compile(r"pirms\s+(?:(\d+)\s+)?(min|stund|dien|nedēļ|mēneš|mēnes)", re.IGNORECASE)
 
 
 def posted_date(text, today):
+    """«pirms 5 dienām», «pirms nedēļas», «vakar» → дата."""
     t = text.lower()
     if "vakar" in t:
         return today - timedelta(days=1)
     m = REL.search(t)
     if not m:
         return today
-    n, unit = int(m.group(1)), m.group(2).lower()
+    n, unit = int(m.group(1) or 1), m.group(2).lower()
     if unit.startswith("dien"):
         return today - timedelta(days=n)
     if unit.startswith("nedēļ"):
         return today - timedelta(weeks=n)
-    if unit.startswith("mēneš"):
+    if unit.startswith("mēne"):
         return today - timedelta(days=30 * n)
     return today  # минуты / часы
 
 
-def parse_page(html, today):
-    soup = BeautifulSoup(html, "html.parser")
+# ---------- cv.lv (открытый JSON поиска сайта) ----------
+
+def collect_cvlv(session, today):
+    api = "https://www.cv.lv/api/v1"
+    loc = get(session, f"{api}/locations-service/list").json()
+    towns = {t["id"]: t["name"] for t in loc.get("towns", [])}
+    counties = {c["id"]: c["name"] for c in loc.get("counties", [])}
+    countries = {c["id"]: c["name"] for c in loc.get("countries", [])}
+
+    jobs, offset, total = [], 0, None
+    while total is None or offset < total:
+        d = get(session, f"{api}/vacancy-search-service/search",
+                params={"limit": 100, "offset": offset, "sorting": "LATEST"}).json()
+        total = d.get("total", 0)
+        batch = d.get("vacancies") or []
+        if not batch:
+            break
+        for v in batch:
+            title = clean(v.get("positionTitle"))
+            if v.get("countryId") not in (None, 101):  # 101 = Латвия
+                location = countries.get(v["countryId"], "ārzemes")
+            else:
+                location = towns.get(v.get("townId")) or counties.get(v.get("countyId")) or ""
+            content = clean(v.get("positionContent"))
+            if content.lower().startswith(title.lower()):
+                content = content[len(title):]
+            dates = [x for x in (v.get("publishDate"), v.get("renewedDate")) if x]
+            posted = max(datetime.fromisoformat(x).astimezone(TZ).date() for x in dates) if dates else today
+            jobs.append({
+                "id": f'cv-{v["id"]}',
+                "title": title,
+                "url": f'https://www.cv.lv/lv/vacancy/{v["id"]}',
+                "company": clean(v.get("employerName")),
+                "location": location,
+                "description": short(content, 300),
+                "source": "CV.lv",
+                "posted": posted.isoformat(),
+                "remote_type": v.get("remoteWorkType") or "",
+            })
+        offset += len(batch)
+        print(f"  cv.lv: {offset}/{total}")
+    return jobs
+
+
+# ---------- cvmarket.lv (поиск по словам из config.json) ----------
+
+def collect_cvmarket(session, today):
+    base = "https://www.cvmarket.lv"
     jobs = []
-    for ad in soup.select("div.ad"):
-        a = ad.select_one("h2 a")
-        if not a or not a.get("href"):
-            continue
-        href = a["href"]
-        if href.startswith("/"):
-            href = BASE + href
-        m = re.search(r"goItem\('[^']*',\s*'(\d+)'", a.get("onclick", "") or a.get("OnClick", ""))
-        job_id = m.group(1) if m else re.sub(r"[?#].*$", "", href)
-
-        comp = ad.select_one("p.company")
-        comp_text = comp.get_text(" ", strip=True).replace("\xa0", " ") if comp else ""
-        company, _, location = (s.strip() for s in comp_text.partition(" - "))
-        comp_link = comp.select_one("a") if comp else None
-        if comp_link:
-            company = comp_link.get_text(strip=True)
-
-        desc = ad.select_one("p.description")
-        site = ad.select_one("p.site")
-        site_text = site.get_text(" ", strip=True).replace("\xa0", " ") if site else ""
-        source = site_text.split(" - ")[0].strip()
-
-        jobs.append({
-            "id": job_id,
-            "title": a.get_text(" ", strip=True),
-            "url": href,
-            "company": company,
-            "location": location,
-            "description": desc.get_text(" ", strip=True) if desc else "",
-            "source": source,
-            "posted": posted_date(site_text, today).isoformat(),
-        })
-    has_next = bool(soup.select_one("div.paging a[href*='/p/']")) and "»" in (
-        soup.select_one("div.paging").get_text() if soup.select_one("div.paging") else "")
-    return jobs, has_next
+    for q in all_queries():
+        r = get(session, f"{base}/darba-piedavajumi", params={"op": "search", "search[keyword]": q})
+        soup = BeautifulSoup(r.content, "html.parser")
+        n = 0
+        for art in soup.select('article[data-component="jobad"]'):
+            a = art.select_one("a.jobad-url")
+            h = art.select_one("h2")
+            if not a or not h:
+                continue
+            job_id = art.get("data-component-jobid") or re.sub(r"\D", "", a["href"][-12:])
+            comp = art.select_one(".job-company")
+            city = art.select_one(".location")
+            date = next((s.get_text(strip=True) for s in art.select("span")
+                         if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
+            href = a["href"]
+            jobs.append({
+                "id": f"cvm-{job_id}",
+                "title": clean(h.get_text(" ")),
+                "url": href if href.startswith("http") else base + href,
+                "company": clean(comp.get_text(" ")) if comp else "",
+                "location": clean(city.get_text(" ")) if city else "",
+                "description": "",
+                "source": "CVMarket.lv",
+                "posted": posted_date(date, today).isoformat(),
+            })
+            n += 1
+        print(f"  cvmarket {q!r}: {n}")
+    return jobs
 
 
-# ---------- сбор ----------
+# ---------- ss.lv (разделы профессий из config.json) ----------
 
-def fetch(session, query, page):
-    url = f"{BASE}/vakance/{quote(query.replace(' ', '+'), safe='+')}"
-    if page > 1:
-        url += f"/p/{page}"
-    r = session.get(url, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    return r.text
+def collect_ss(session, today):
+    base = "https://www.ss.lv"
+    jobs = []
+    for section, profession in CONFIG.get("ss_sections", {}).items():
+        url = f"{base}/lv/work/are-required/{section}/"
+        # даты берём из RSS этого же раздела
+        dates = {}
+        try:
+            rss = ET.fromstring(get(session, url + "rss/").content)
+            for it in rss.iter("item"):
+                link, pub = it.findtext("link", "").strip(), it.findtext("pubDate", "").strip()
+                if link and pub:
+                    dates[link] = parsedate_to_datetime(pub).astimezone(TZ).date()
+        except Exception as e:
+            print(f"  ! ss.lv {section} rss: {e}", file=sys.stderr)
+
+        soup = BeautifulSoup(get(session, url).content, "html.parser")
+        n = 0
+        for tr in soup.select('tr[id^="tr_"]'):
+            if not tr["id"][3:].isdigit():
+                continue  # рекламные строки
+            a = tr.select_one("a.am")
+            if not a:
+                continue
+            text = clean(a.get_text(" "))
+            region = tr.select_one(".ads_region")
+            cells = tr.find_all("td", recursive=False)
+            link = base + a["href"]
+            jobs.append({
+                "id": f'ss-{tr["id"][3:]}',
+                "title": short(text, 110),
+                "url": link,
+                "company": clean(cells[3].get_text(" ")) if len(cells) >= 5 else "",
+                "location": clean(region.get_text(" ")) if region else "",
+                "description": text if len(text) > 110 else "",
+                "source": "ss.lv",
+                "posted": dates.get(link, today).isoformat(),
+                "profession": profession,
+            })
+            n += 1
+        print(f"  ss.lv {section}: {n}")
+    return jobs
 
 
 def all_queries():
@@ -187,30 +281,41 @@ def all_queries():
     return out
 
 
+SOURCES = {"cv.lv": collect_cvlv, "cvmarket.lv": collect_cvmarket, "ss.lv": collect_ss}
+
+
+# ---------- сбор ----------
+
 def main():
     now = datetime.now(TZ)
     today = now.date()
     session = requests.Session()
-    found, errors = {}, 0
+    found, keys, failed = {}, set(), []
 
-    for q in all_queries():
-        for page in range(1, CONFIG["max_pages_per_search"] + 1):
-            try:
-                html = fetch(session, q, page)
-            except Exception as e:
-                errors += 1
-                print(f"  ! {q} p{page}: {e}", file=sys.stderr)
-                break
-            jobs, has_next = parse_page(html, today)
-            for j in jobs:
-                found.setdefault(j["id"], j)
-            print(f"{q!r} p{page}: {len(jobs)}")
-            time.sleep(1.2)
-            if not has_next or not jobs:
-                break
+    enabled = CONFIG.get("sources", {k: True for k in SOURCES})
+    for name, collect in SOURCES.items():
+        if not enabled.get(name, False):
+            continue
+        print(f"== {name}")
+        try:
+            jobs = collect(session, today)
+        except Exception as e:
+            failed.append(name)
+            print(f"  ! {name} не ответил: {e}", file=sys.stderr)
+            continue
+        added = 0
+        for j in jobs:
+            # одна и та же вакансия может быть на двух сайтах
+            key = (j["title"].lower(), j["company"].lower())
+            if j["id"] in found or key in keys:
+                continue
+            found[j["id"]] = j
+            keys.add(key)
+            added += 1
+        print(f"  {name}: {len(jobs)} объявлений, новых в выборке {added}")
 
-    if not found and errors:
-        sys.exit("Сайт не ответил ни на один запрос — данные не обновлены.")
+    if not found:
+        sys.exit("Ни один источник не ответил — данные не обновлены.")
 
     # слияние с прошлыми днями (старые тоже перепроверяются — если вы поменяли config.json)
     old = {}
@@ -247,7 +352,8 @@ def main():
         "groups": [{"id": g["id"], "name": g["name"]} for g in CONFIG["groups"]],
         "jobs": jobs,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Просмотрено: {len(found)}, подошло сегодня: {len(matched)}, в ленте: {len(jobs)}")
+    print(f"Просмотрено: {len(found)}, подошло сегодня: {len(matched)}, в ленте: {len(jobs)}"
+          + (f". Не ответили: {', '.join(failed)}" if failed else ""))
 
 
 if __name__ == "__main__":

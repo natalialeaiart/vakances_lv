@@ -1,8 +1,23 @@
 {
   "_help": "Слова до 4 букв (AI, HR, SMM, web) ищутся только как отдельное слово. Длинные — как начало/часть слова: 'personāl' поймает 'personāla', 'personālvadība'. Регистр не важен.",
 
-  "max_pages_per_search": 4,
+  "sources": { "cv.lv": true, "cvmarket.lv": true, "ss.lv": true },
   "archive_days": 14,
+
+  "_ss_help": "Разделы ss.lv «Vakances»: адрес раздела → название профессии (по нему вакансия попадает в группу). Полный список разделов: https://www.ss.lv/lv/work/are-required/",
+  "ss_sections": {
+    "administrator": "Administrators",
+    "assistant": "Asistents",
+    "secretary": "Sekretārs",
+    "clerk": "Lietvedis",
+    "personnel-manager": "Personāla vadītājs",
+    "advertising-manager": "Reklāmas menedžeris",
+    "web-designer": "Web dizaineris",
+    "designer": "Dizainers",
+    "manager": "Menedžeris",
+    "expert": "Speciālists",
+    "other": "Citas profesijas"
+  },
 
   "groups": [
     {
