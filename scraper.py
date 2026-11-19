@@ -194,17 +194,21 @@ def collect_cvlv(session, today):
 
 def collect_cvmarket(session, today):
     base = "https://www.cvmarket.lv"
-    jobs, sample_shown = [], False
+    jobs, ok, errors = [], 0, 0
     for q in all_queries():
         n = 0
         for page in range(CONFIG.get("cvmarket_max_pages", 3)):
-            r = get(session, f"{base}/darba-piedavajumi",
-                    params={"op": "search", "search[keyword]": q, "start": page * 30})
+            try:
+                r = get(session, f"{base}/darba-piedavajumi",
+                        params={"op": "search", "search[keyword]": q, "start": page * 30})
+            except requests.HTTPError as e:
+                if page == 0:  # следующей страницы нет — это не ошибка
+                    errors += 1
+                    print(f"  ! cvmarket {q!r}: {e}", file=sys.stderr)
+                break
+            ok += page == 0
             soup = BeautifulSoup(r.content, "html.parser")
             arts = soup.select('article[data-component="jobad"]')
-            if arts and not sample_shown:
-                sample_shown = True
-                print("  cvmarket пример:", clean(arts[0].get_text(" | "))[:300])
             for art in arts:
                 a = art.select_one("a.jobad-url")
                 h = art.select_one("h2")
@@ -230,6 +234,8 @@ def collect_cvmarket(session, today):
             if len(arts) < 30:
                 break  # последняя страница
         print(f"  cvmarket {q!r}: {n}")
+    if not ok and errors:
+        raise RuntimeError(f"все {errors} запросов к cvmarket.lv с ошибкой")
     return jobs
 
 
