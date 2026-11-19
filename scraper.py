@@ -147,9 +147,13 @@ def posted_date(text, today):
 def collect_cvlv(session, today):
     api = "https://www.cv.lv/api/v1"
     loc = get(session, f"{api}/locations-service/list").json()
-    towns = {t["id"]: t["name"] for t in loc.get("towns", [])}
-    counties = {c["id"]: c["name"] for c in loc.get("counties", [])}
-    countries = {c["id"]: c["name"] for c in loc.get("countries", [])}
+    # towns приходит списком, counties/countries — словарём {"id": {...}}
+    def names(key):
+        items = loc.get(key) or []
+        if isinstance(items, dict):
+            items = items.values()
+        return {x["id"]: x["name"] for x in items if isinstance(x, dict)}
+    towns, counties, countries = names("towns"), names("counties"), names("countries")
 
     jobs, offset, total = [], 0, None
     while total is None or offset < total:
@@ -190,33 +194,41 @@ def collect_cvlv(session, today):
 
 def collect_cvmarket(session, today):
     base = "https://www.cvmarket.lv"
-    jobs = []
+    jobs, sample_shown = [], False
     for q in all_queries():
-        r = get(session, f"{base}/darba-piedavajumi", params={"op": "search", "search[keyword]": q})
-        soup = BeautifulSoup(r.content, "html.parser")
         n = 0
-        for art in soup.select('article[data-component="jobad"]'):
-            a = art.select_one("a.jobad-url")
-            h = art.select_one("h2")
-            if not a or not h:
-                continue
-            job_id = art.get("data-component-jobid") or re.sub(r"\D", "", a["href"][-12:])
-            comp = art.select_one(".job-company")
-            city = art.select_one(".location")
-            date = next((s.get_text(strip=True) for s in art.select("span")
-                         if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
-            href = a["href"]
-            jobs.append({
-                "id": f"cvm-{job_id}",
-                "title": clean(h.get_text(" ")),
-                "url": href if href.startswith("http") else base + href,
-                "company": clean(comp.get_text(" ")) if comp else "",
-                "location": clean(city.get_text(" ")) if city else "",
-                "description": "",
-                "source": "CVMarket.lv",
-                "posted": posted_date(date, today).isoformat(),
-            })
-            n += 1
+        for page in range(CONFIG.get("cvmarket_max_pages", 3)):
+            r = get(session, f"{base}/darba-piedavajumi",
+                    params={"op": "search", "search[keyword]": q, "start": page * 30})
+            soup = BeautifulSoup(r.content, "html.parser")
+            arts = soup.select('article[data-component="jobad"]')
+            if arts and not sample_shown:
+                sample_shown = True
+                print("  cvmarket пример:", clean(arts[0].get_text(" | "))[:300])
+            for art in arts:
+                a = art.select_one("a.jobad-url")
+                h = art.select_one("h2")
+                if not a or not h:
+                    continue
+                job_id = art.get("data-component-jobid") or re.sub(r"\D", "", a["href"][-12:])
+                comp = art.select_one(".job-company")
+                city = art.select_one(".location") or art.select_one(r"div.text-sm.lg\:hidden")
+                date = next((s.get_text(strip=True) for s in art.select("span")
+                             if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
+                href = a["href"]
+                jobs.append({
+                    "id": f"cvm-{job_id}",
+                    "title": clean(h.get_text(" ")),
+                    "url": href if href.startswith("http") else base + href,
+                    "company": clean(comp.get_text(" ")) if comp else "",
+                    "location": clean(city.get_text(" ")) if city else "",
+                    "description": "",
+                    "source": "CVMarket.lv",
+                    "posted": posted_date(date, today).isoformat(),
+                })
+                n += 1
+            if len(arts) < 30:
+                break  # последняя страница
         print(f"  cvmarket {q!r}: {n}")
     return jobs
 
