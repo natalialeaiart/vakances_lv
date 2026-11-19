@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 13:19",
+ "updated": "2026-11-19 13:22",
  "today": "2026-11-19",
  "groups": [
   {
@@ -782,7 +782,7 @@
    "url": "https://www.cv.lv/lv/vacancy/1683122",
    "company": "FA Advise SIA",
    "location": "Rīga",
-   "description": "Valodu zināšanas nepieciešamas: Latviešu, Krievu valoda (saziņai ar kolēģiem no Ukrainas), Angļu valida(saziņai ar kolēģiem no ārzemēm) no EUR 1349.79 (bruto) līdz EUR 1799.71 (bruto) mēnesī",
+   "description": "Valodu zināšanas nepieciešamas: Latviešu, Krievu valoda (saziņai ar kolēģiem no Ukrainas), Angļu valida(saziņai ar kolēģiem no ārzemēm) Papildu labumi: Bezmaksas autostāvvieta, veselības apdrošināšana, sporta, deju un citu aktivitāšu izdevumu kompensācija, dāvanas nozīmīgos dzīves notikumos,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
    "remote_type": "ON_SITE",
@@ -1150,6 +1150,74 @@
     "admin"
    ],
    "tags": []
+  },
+  {
+   "id": "cvm-1660694",
+   "title": "Montāžnieki/-ces un montāžas brigāžu vadītāji/-as darbam Vācijā",
+   "url": "https://www.cvmarket.lv/montaznieki-ces-un-montazas-brigazu-vaditaji-as-darbam-vacija-vacija-razer-sia-1660694",
+   "company": "Razer, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "ai"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1663065",
+   "title": "Informācijas un komunikācijas tehnoloģiju pārvaldības nodaļas galvenais/-ā speciālists/-e (datu pārvaldnieks/-ce)",
+   "url": "https://www.cvmarket.lv/informacijas-un-komunikacijas-tehnologiju-parvaldibas-nodalas-galvenais-a-specialists-e-datu-parvaldnieks-ce-riga-valsts-policija-1663065",
+   "company": "Valsts policija",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "marketing"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1661059",
+   "title": "Klientu apkalpošanas speciālists/-e TC \"Akropole Rīga\"",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-tc-akropole-riga-riga-davanu-serviss-sia-1661059",
+   "company": "Dāvanu Serviss, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1660766",
+   "title": "Klientu apkalpošanas speciālists/-e Domina Skypark uz pilnu/nepilnu slodzi",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-domina-skypark-uz-pilnunepilnu-slodzi-riga-apl-skypark-sia-1660766",
+   "company": "APL Skypark, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
   },
   {
    "id": "cvm-1663021",
@@ -1699,23 +1767,6 @@
    ],
    "tags": [
     "hybrid"
-   ]
-  },
-  {
-   "id": "cvm-1662861",
-   "title": "Biroja un klientu attiecību koordinators/-e (ar vācu valodas zināšanām)",
-   "url": "https://www.cvmarket.lv/biroja-un-klientu-attiecibu-koordinators-e-ar-vacu-valodas-zinasanam-riga-usus-sia-1662861",
-   "company": "Usus, SIA",
-   "location": "",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "no_city"
    ]
   },
   {
@@ -2754,6 +2805,23 @@
    "tags": []
   },
   {
+   "id": "cvm-1662861",
+   "title": "Biroja un klientu attiecību koordinators/-e (ar vācu valodas zināšanām)",
+   "url": "https://www.cvmarket.lv/biroja-un-klientu-attiecibu-koordinators-e-ar-vacu-valodas-zinasanam-riga-usus-sia-1662861",
+   "company": "Usus, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "admin"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
    "id": "cvm-1662793",
    "title": "Cenu un mārketinga materiālu koordinators veikalā",
    "url": "https://www.cvmarket.lv/cenu-un-marketinga-materialu-koordinators-veikala-riga-maxima-1662793",
@@ -3630,6 +3698,23 @@
    ]
   },
   {
+   "id": "cvm-1662746",
+   "title": "KLIENTU APKALPOŠANAS SPECIĀLISTS NMC Klientu informācijas un apkalpošanas daļā",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-nmc-klientu-informacijas-un-apkalposanas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662746",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-15",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
    "id": "cvm-1661453",
    "title": "KOKOS meklē vecāko administratoru/-i",
    "url": "https://www.cvmarket.lv/kokos-mekle-vecako-administratoru-i-riga-kokos-sia-1661453",
@@ -3742,6 +3827,40 @@
     "web"
    ],
    "tags": []
+  },
+  {
+   "id": "cvm-1662741",
+   "title": "Klientu apkalpošanas darbinieks/-ce \"LIDO Ķirsons māja\"",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-lido-kirsons-maja-riga-as-lido-1662741",
+   "company": "AS LIDO",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-14",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662658",
+   "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Jelgavā, Pasta 51/1",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-jelgava-pasta-511-jelgava-olympic-casino-latvia-sia-1662658",
+   "company": "Olympic Casino Latvia, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-14",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
   },
   {
    "id": "cvm-1661648",
@@ -4406,6 +4525,23 @@
     "admin"
    ],
    "tags": []
+  },
+  {
+   "id": "cvm-1662599",
+   "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Rīgā, Brīvības gatvē 432",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-riga-brivibas-gatve-432-riga-olympic-casino-latvia-sia-1662599",
+   "company": "Olympic Casino Latvia, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
   },
   {
    "id": "cvm-1662046",
@@ -5083,6 +5219,210 @@
    ],
    "tags": [
     "hybrid"
+   ]
+  },
+  {
+   "id": "cvm-1662169",
+   "title": "Personāla speciālists/-e",
+   "url": "https://www.cvmarket.lv/personala-specialists-e-adazu-novads-am-nbs-nodrosinajuma-pavelniecibas-3regionalais-nodrosinajuma-centrs-1662169",
+   "company": "AM NBS Nodrošinājuma pavēlniecības 3.Reģionālais nodrošinājuma centrs",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1661949",
+   "title": "PERSONĀLA VADĪTĀJS/-A​",
+   "url": "https://www.cvmarket.lv/personala-vaditajs-a-riga-barbora-lv-1661949",
+   "company": "Barbora LV",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662165",
+   "title": "Grāmatu ražošanas iekārtu operatori/-es (apmācība nodrošināta)",
+   "url": "https://www.cvmarket.lv/gramatu-razosanas-iekartu-operatori-es-apmaciba-nodrosinata-riga-livonia-print-sia-1662165",
+   "company": "Livonia Print, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662034",
+   "title": "Klientu apkalpošanas speciālists/-e",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-latvija-transcom-worldwide-latvia-sia-1662034",
+   "company": "TRANSCOM WORLDWIDE LATVIA, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662408",
+   "title": "Praktikante/-s Klientu apkalpošanā Land Rover autocentrā",
+   "url": "https://www.cvmarket.lv/praktikante-s-klientu-apkalposana-land-rover-autocentra-riga-inchcape-motors-latvia-sia-1662408",
+   "company": "Inchcape Motors Latvia, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662334",
+   "title": "Klientu apkalpošanas darbinieks/-ce Spice",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-spice-riga-as-lido-1662334",
+   "company": "AS LIDO",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662253",
+   "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a (ar lietuviešu valodas zināšanām)",
+   "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-ar-lietuviesu-valodas-zinasanam-riga-depo-diy-sia-1662253",
+   "company": "DEPO DIY, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1660986",
+   "title": "Klientu apkalpošanas speciālists/-e \"Olympic Casino\" Siguldā, Ausekļa ielā 5A (0,5 slodze)",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-olympic-casino-sigulda-ausekla-iela-5a-05-slodze-siguldas-novads-olympic-casino-latvia-sia-1660986",
+   "company": "Olympic Casino Latvia, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662191",
+   "title": "Klientu apkalpošanas speciālists/-e (ar dāņu valodas zināšanām)",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-ar-danu-valodas-zinasanam-riga-kronospan-riga-sia-1662191",
+   "company": "KRONOSPAN Riga, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662129",
+   "title": "KLIENTU APKALPOŠANAS SPECIĀLISTS PLĀNVEIDA UZŅEMŠANĀ Klientu informācijas un apkalpošanas daļā",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-planveida-uznemsana-klientu-informacijas-un-apkalposanas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662129",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662051",
+   "title": "Klientu apkalpošanas speciālists Reģistratūrā POLIKLĪNIKĀ",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-registratura-poliklinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662051",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1662527",
+   "title": "Digital Asset and Cost Manager",
+   "url": "https://www.cvmarket.lv/digital-asset-and-cost-manager-riga-cabot-latvia-sia-1662527",
+   "company": "Cabot Latvia, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "marketing"
+   ],
+   "tags": [
+    "no_city"
    ]
   },
   {
@@ -6010,6 +6350,74 @@
     "admin"
    ],
    "tags": []
+  },
+  {
+   "id": "cvm-1661807",
+   "title": "ATLASES UN APMĀCĪBU SPECIĀLISTS Personāla vadības daļā",
+   "url": "https://www.cvmarket.lv/atlases-un-apmacibu-specialists-personala-vadibas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1661807",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1661636",
+   "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Imantā",
+   "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-imanta-riga-depo-diy-sia-1661636",
+   "company": "DEPO DIY, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1661635",
+   "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Krasta ielā",
+   "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-krasta-iela-riga-depo-diy-sia-1661635",
+   "company": "DEPO DIY, SIA",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
+  },
+  {
+   "id": "cvm-1661552",
+   "title": "Klientu apkalpošanas darbinieks/-ce \"Lido Atpūtas centrs\"",
+   "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-lido-atputas-centrs-riga-as-lido-1661552",
+   "company": "AS LIDO",
+   "location": "",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "no_city"
+   ]
   }
  ]
 }
