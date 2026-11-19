@@ -192,6 +192,17 @@ def collect_cvlv(session, today):
 
 # ---------- cvmarket.lv (поиск по словам из config.json) ----------
 
+def cvmarket_city(art, title, company):
+    """Город в карточке CVMarket идёт строкой сразу после названия компании."""
+    parts = [clean(s) for s in art.stripped_strings]
+    if company in parts:
+        nxt = parts[parts.index(company) + 1:parts.index(company) + 2]
+        if nxt and nxt[0] != title and "€" not in nxt[0] \
+                and not re.match(r"(pirms|atliku|vakar|šodien|vip|jauns)", nxt[0], re.I):
+            return nxt[0]
+    return ""
+
+
 def collect_cvmarket(session, today):
     base = "https://www.cvmarket.lv"
     jobs, ok, errors = [], 0, 0
@@ -216,16 +227,19 @@ def collect_cvmarket(session, today):
                     continue
                 job_id = art.get("data-component-jobid") or re.sub(r"\D", "", a["href"][-12:])
                 comp = art.select_one(".job-company")
-                city = art.select_one(".location") or art.select_one(r"div.text-sm.lg\:hidden")
+                title = clean(h.get_text(" "))
+                company = clean(comp.get_text(" ")) if comp else ""
+                city = art.select_one(".location")
+                location = clean(city.get_text(" ")) if city else cvmarket_city(art, title, company)
                 date = next((s.get_text(strip=True) for s in art.select("span")
                              if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
                 href = a["href"]
                 jobs.append({
                     "id": f"cvm-{job_id}",
-                    "title": clean(h.get_text(" ")),
+                    "title": title,
                     "url": href if href.startswith("http") else base + href,
-                    "company": clean(comp.get_text(" ")) if comp else "",
-                    "location": clean(city.get_text(" ")) if city else "",
+                    "company": company,
+                    "location": location,
                     "description": "",
                     "source": "CVMarket.lv",
                     "posted": posted_date(date, today).isoformat(),
