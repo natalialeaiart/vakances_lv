@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 13:33",
- "today": "2026-11-19",
+ "updated": "2026-11-20 09:36",
+ "today": "2026-11-20",
  "groups": [
   {
    "id": "ai",
@@ -32,6 +32,353 @@
   }
  ],
  "jobs": [
+  {
+   "id": "cv-1683427",
+   "title": "Datu aizsardzības koordinators/-e (uz noteiktu laiku)",
+   "url": "https://www.cv.lv/lv/vacancy/1683427",
+   "company": "Rīgas valstspilsētas pašvaldības Izglītības, kultūras un sporta departaments",
+   "location": "Rīga",
+   "description": "",
+   "source": "CV.lv",
+   "posted": "2026-11-20",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cv-1683393",
+   "title": "Vadības asistents",
+   "url": "https://www.cv.lv/lv/vacancy/1683393",
+   "company": "MFD Veselības grupa",
+   "location": "Rīga",
+   "description": "",
+   "source": "CV.lv",
+   "posted": "2026-11-20",
+   "remote_type": "ON_SITE",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cv-1683392",
+   "title": "Travel Agency Support Specialist",
+   "url": "https://www.cv.lv/lv/vacancy/1683392",
+   "company": "Norwegian Air Resources Latvia",
+   "location": "Rīga",
+   "description": "\"Our people are the heart of Norwegian. We embrace a culture of diversity, equality, and inclusion. Embracing this culture is critical to our business success and makes us stronger together. Our people have different strengths, experiences, and backgrounds, but all share a passion for our vision:…",
+   "source": "CV.lv",
+   "posted": "2026-11-20",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cvm-1663154",
+   "title": "E-KOMERCIJAS UN MĀRKETINGA VADĪTĀJS/-A",
+   "url": "https://www.cvmarket.lv/e-komercijas-un-marketinga-vaditajs-a-riga-nittis-sia-1663154",
+   "company": "NITTIS, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "marketing",
+    "web"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1661980",
+   "title": "IT Coordinator - Retail Business",
+   "url": "https://www.cvmarket.lv/it-coordinator-retail-business-riga-avo-latvia-sia-1661980",
+   "company": "AVO Latvia, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1663135",
+   "title": "Senior Microsoft Dynamics 365 ERP Administrator",
+   "url": "https://www.cvmarket.lv/senior-microsoft-dynamics-365-erp-administrator-riga-epam-systems-sia-1663135",
+   "company": "EPAM Systems, SIA",
+   "location": "Rīga / Hibrīddarbs",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cvm-1663142",
+   "title": "Biroja un IT speciālists",
+   "url": "https://www.cvmarket.lv/biroja-un-it-specialists-riga-idt-media-sia-1663142",
+   "company": "IDT Media, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1663140",
+   "title": "People Lead/ Scrum Master",
+   "url": "https://www.cvmarket.lv/people-lead-scrum-master-riga-swisscom-devops-center-latvia-sia-1663140",
+   "company": "Swisscom DevOps Center Latvia, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "hr"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-56962571",
+   "title": "Mēs implantoloģijas klīnika\"Zfsmaids\" meklējam pacientu Koordinatori (-u) mūsu draudzīga",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/manager/dfndj.html",
+   "company": "SIA Villadent",
+   "location": "Rīga, centrs",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-20",
+   "profession": "Menedžeris",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cv-1683280",
+   "title": "Customer Support & Success Specialist",
+   "url": "https://www.cv.lv/lv/vacancy/1683280",
+   "company": "SIA ATOM Tech",
+   "location": "Rīga",
+   "description": "Excellent written and spoken English, as you’ll communicate daily with international B2B customers. Strong communication, analytical, and problem-solving skills. A proactive approach and ability to take ownership of customer issues. Confidence working with technology and learning new software.…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "support"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cv-1683261",
+   "title": "Veikala personāla lietvedis/-e Krasta ielā",
+   "url": "https://www.cv.lv/lv/vacancy/1683261",
+   "company": "DEPO",
+   "location": "Rīga",
+   "description": "",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "ON_SITE",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "hr",
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cv-1683189",
+   "title": "Head of AI Solutions Division",
+   "url": "https://www.cv.lv/lv/vacancy/1683189",
+   "company": "ERGO Insurance SE Latvijas filiāle /ERGO Life Insurance SE Latvijas filiāle",
+   "location": "Rīga",
+   "description": "Responsibilities: Define and drive ERGO Baltics' AI strategy and roadmap in alignment with business, technology and risk priorities. Lead the AI Solutions Division and own the AI portfolio across the Baltics. Identify, prioritize and oversee AI initiatives, ensuring measurable business value and…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "ai"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cv-1683149",
+   "title": "Mārketinga projektu vadītājs/-a",
+   "url": "https://www.cv.lv/lv/vacancy/1683149",
+   "company": "Pillar Capital, AS",
+   "location": "Rīga",
+   "description": "Plānošana un vadība: sadarbībā ar pārdošanas un iznomāšanas komandu izstrādāt dzīvokļu pārdošanas un biroju iznomāšanas projektu mārketinga aktivitātes; sadarbībā ar apsaimniekošanas biznesa virzienu īstenot mārketinga aktivitātes, veicinot pakalpojuma atpazīstamību tirgū; identificēt…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "marketing"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "cv-1683136",
+   "title": "HR Generalist",
+   "url": "https://www.cv.lv/lv/vacancy/1683136",
+   "company": "Grafton Latvia SIA",
+   "location": "Rīga",
+   "description": "Founded in early 2010, our client is a global data MVNO that delivers enterprise-grade global connectivity and IoT services across more than 200 countries and 600+ mobile carriers' networks. Their secured network provides advanced network protection and web content intelligence. Through a powerful,…",
+   "source": "CV.lv",
+   "posted": "2026-11-19",
+   "remote_type": "HYBRID",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
+   "id": "ss-57531053",
+   "title": "Vakance: klientu apkalpošanas centra administrators / operators. Atalgojums (bruto):",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/administrator/bbexfl.html",
+   "company": "Mustang apsardze, SIA",
+   "location": "Rīga, Bukulti",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Administrators",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "support",
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-58196038",
+   "title": "Aicinam darbā šuvēju vai apģērbu piegriezēju-modelētāj u darbam ar klientiem. ‍ Galv",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/administrator/memlx.html",
+   "company": "SIA Rkf polonija",
+   "location": "Rīga, centrs",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Administrators",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-58278293",
+   "title": "Klīnika Girtcius Med paplašina savu komandu un meklē pozitīvu un komunikablu kolēģi paci",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/administrator/eflmc.html",
+   "company": "Klīnika girtcius med",
+   "location": "Rīga, centrs",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Administrators",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-58278860",
+   "title": "Uzņēmums aicina Jūs pievienoties mūsu komandai kā viesnīcas administratoru. Elastīgs dar",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/administrator/lnxne.html",
+   "company": "SIA Arkana",
+   "location": "Rīga, Purvciems",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Administrators",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-57823243",
+   "title": "Требуется администратор в докторат (полставки) В медицинский центр требуется админист",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/administrator/bbjelg.html",
+   "company": "Grand Medical",
+   "location": "Rīga, Purvciems",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Administrators",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ss-58306184",
+   "title": "Meklējam asistentus darbam ar bērniem ar īpašām vajadzībām mājās. Darba laiks: otrdien",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/assistant/mikjk.html",
+   "company": "SIA Carelat",
+   "location": "Rīga, Ziepniekkalns",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-19",
+   "profession": "Asistents",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1662773",
+   "title": "Paplašinoties aicinām komandā - Digitālās ražošanas iekārtu opertorus/-es",
+   "url": "https://www.cvmarket.lv/paplasinoties-aicinam-komanda-digitalas-razosanas-iekartu-opertorus-es-riga-livonia-print-sia-1662773",
+   "company": "LIVONIA PRINT, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-20",
+   "groups": [
+    "marketing"
+   ],
+   "tags": []
+  },
   {
    "id": "cvm-1661297",
    "title": "Videonovērošanas inspektors/-e",
@@ -2288,22 +2635,6 @@
    "tags": [
     "hybrid"
    ]
-  },
-  {
-   "id": "cv-1682292",
-   "title": "Senior HR Specialist",
-   "url": "https://www.cv.lv/lv/vacancy/1682292",
-   "company": "Viesnīca Latvija SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-17",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": []
   },
   {
    "id": "cv-1679326",
@@ -4933,23 +5264,6 @@
    ]
   },
   {
-   "id": "cvm-1661949",
-   "title": "PERSONĀLA VADĪTĀJS/-A​",
-   "url": "https://www.cvmarket.lv/personala-vaditajs-a-riga-barbora-lv-1661949",
-   "company": "Barbora LV",
-   "location": "Rīga / Hibrīddarbs",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": [
-    "hybrid"
-   ]
-  },
-  {
    "id": "cvm-1662165",
    "title": "Grāmatu ražošanas iekārtu operatori/-es (apmācība nodrošināta)",
    "url": "https://www.cvmarket.lv/gramatu-razosanas-iekartu-operatori-es-apmaciba-nodrosinata-riga-livonia-print-sia-1662165",
@@ -5575,6 +5889,23 @@
    ]
   },
   {
+   "id": "cvm-1661949",
+   "title": "PERSONĀLA VADĪTĀJS/-A​",
+   "url": "https://www.cvmarket.lv/personala-vaditajs-a-riga-barbora-lv-1661949",
+   "company": "Barbora LV",
+   "location": "Rīga / Hibrīddarbs",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "hr"
+   ],
+   "tags": [
+    "hybrid"
+   ]
+  },
+  {
    "id": "ss-58261194",
    "title": "Tu esi precīzs un rūpīgs darbā ar dokumentiem? Tev ir labas komunikācijas un sadarbība",
    "url": "https://www.ss.lv/msg/lv/work/are-required/clerk/bidgib.html",
@@ -5706,319 +6037,6 @@
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661670",
-   "title": "Mārketinga speciālists/-e",
-   "url": "https://www.cvmarket.lv/marketinga-specialists-e-riga-kreiss-sia-1661670",
-   "company": "Kreiss, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "marketing"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661705",
-   "title": "Telemārketinga speciālists/-e / Klientu konsultants/-e",
-   "url": "https://www.cvmarket.lv/telemarketinga-specialists-e-klientu-konsultants-e-riga-enivo-sia-1661705",
-   "company": "enivo, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "marketing"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661806",
-   "title": "Junior CRM Specialist, AI-first",
-   "url": "https://www.cvmarket.lv/junior-crm-specialist-ai-first-riga-picanova-gmbh-filiale-picanova-baltics-1661806",
-   "company": "Picanova GmbH filiāle \"Picanova Baltics\"",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "ai"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661603",
-   "title": "FREELANCE RECRUITMENT PARTNER – Join Weekend's Baltic Team!",
-   "url": "https://www.cvmarket.lv/freelance-recruitment-partner-join-weekends-baltic-team-riga-weekend-eesti-ou-1661603",
-   "company": "Weekend Eesti OÜ",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661827",
-   "title": "Personāla atlases speciālists/-e",
-   "url": "https://www.cvmarket.lv/personala-atlases-specialists-e-riga-hd-logistics-group-sia-1661827",
-   "company": "HD Logistics Group, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661726",
-   "title": "Personāla atlases speciālists/-e",
-   "url": "https://www.cvmarket.lv/personala-atlases-specialists-e-riga-sia-biuro-1661726",
-   "company": "SIA \"Biuro\"",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661754",
-   "title": "Biroja administrators/-e",
-   "url": "https://www.cvmarket.lv/biroja-administrators-e-riga-vitum-sia-1661754",
-   "company": "Vitum SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661700",
-   "title": "Administrators/-e (zāles pārzinis/-e) \"Čili Pizza\" picērijā Rīgā (Pļavnieki)",
-   "url": "https://www.cvmarket.lv/administrators-e-zales-parzinis-e-cili-pizza-picerija-riga-plavnieki-riga-tiamo-grupa-sia-1661700",
-   "company": "TIAMO GRUPA, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661518",
-   "title": "ADMINISTRATORS Anestezioloģijas un reanimatoloģijas klīnikā",
-   "url": "https://www.cvmarket.lv/administrators-anesteziologijas-un-reanimatologijas-klinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1661518",
-   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cv-1677761",
-   "title": "Klientu apkalpošanas speciālists REĢISTRATŪRĀ POLIKLĪNIKĀ Klientu informācijas un apkalpošanas daļā",
-   "url": "https://www.cv.lv/lv/vacancy/1677761",
-   "company": "Paula Stradiņa Klīniskā universitātes slimnīca",
-   "location": "Rīga",
-   "description": "vidējā vai augstākā izglītība; vēlama iepriekšēja darba pieredze līdzvērtīgā darbā; vēlama pieredze darbā ar kases aparātu; labas saskarsmes spējas, laipna un atsaucīga attieksme; atbildības sajūta un precizitāte; teicamas latviešu valodas, vēlamas vienas svešvalodas zināšanas labā sarunvalodas…",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cv-1677739",
-   "title": "Personāla vadītājs/-a",
-   "url": "https://www.cv.lv/lv/vacancy/1677739",
-   "company": "PATRIKA SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "HYBRID",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": [
-    "hybrid"
-   ]
-  },
-  {
-   "id": "cv-1677716",
-   "title": "Procesu koordinators/e",
-   "url": "https://www.cv.lv/lv/vacancy/1677716",
-   "company": "Rīgas Nami SIA",
-   "location": "Rīga",
-   "description": "SIA “Rīgas nami” ir Rīgas valstspilsētas pašvaldības kapitālsabiedrība, kuras galvenie darbības virzieni ir kultūrvēsturiskā mantojuma saglabāšana, īpašumu attīstīšana, pārvaldīšana un apsaimniekošana, tirgus darbības nodrošināšana, kā arī kultūras pasākumu nodrošināšana kinoteātrī \"Splendid…",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "HYBRID",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": [
-    "hybrid"
-   ]
-  },
-  {
-   "id": "cv-1677711",
-   "title": "Client support with different languages",
-   "url": "https://www.cv.lv/lv/vacancy/1677711",
-   "company": "Dukascopy Bank AS",
-   "location": "Rīga",
-   "description": "Fluency in English Knowledge of any other foreign languages (Spanish, French, Chinese, Arabic, etc.) is considered as advantage Higher education students are welcomed Computer literacy Ability to work in a team and achieve global goal Accuracy and punctuality Stress resistance Previous client…",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cv-1677650",
-   "title": "Mārketinga projektu vadītājs/-a (aviācijas komercdarbība)",
-   "url": "https://www.cv.lv/lv/vacancy/1677650",
-   "company": "Rīgas lidosta",
-   "location": "",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "marketing"
-   ],
-   "tags": [
-    "no_city"
-   ]
-  },
-  {
-   "id": "cv-1677617",
-   "title": "Sadarbības partneru mārketinga projektu vadītājs/-a",
-   "url": "https://www.cv.lv/lv/vacancy/1677617",
-   "company": "Sentor Farm aptiekas AS",
-   "location": "Rīga",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "marketing"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cv-1677227",
-   "title": "Jaunākais/-ā lidojumu koordinators/-e (uz noteiktu laiku - 1 gads)",
-   "url": "https://www.cv.lv/lv/vacancy/1677227",
-   "company": "SIA LunaJets Latvia",
-   "location": "Rīga",
-   "description": "Amata apraksts Kā jaunākais/-ā lidojumu koordinators/-e (Junior Operations Controller) Jūs būsiet atbildīgs/-a par dalību projektos, administratīvo procesu nodrošināšanu, kas nodrošina lidmašīnu atbilstību, uzņēmuma sagatavotību sezonai, un sniegsiet atbalstu Lidojumu operāciju departamentam. Kā…",
-   "source": "CV.lv",
-   "posted": "2026-11-05",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661807",
-   "title": "ATLASES UN APMĀCĪBU SPECIĀLISTS Personāla vadības daļā",
-   "url": "https://www.cvmarket.lv/atlases-un-apmacibu-specialists-personala-vadibas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1661807",
-   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661636",
-   "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Imantā",
-   "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-imanta-riga-depo-diy-sia-1661636",
-   "company": "DEPO DIY, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661635",
-   "title": "Korporatīvo klientu apkalpošanas nodaļas pārdevējs/-a Krasta ielā",
-   "url": "https://www.cvmarket.lv/korporativo-klientu-apkalposanas-nodalas-pardevejs-a-krasta-iela-riga-depo-diy-sia-1661635",
-   "company": "DEPO DIY, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1661552",
-   "title": "Klientu apkalpošanas darbinieks/-ce \"Lido Atpūtas centrs\"",
-   "url": "https://www.cvmarket.lv/klientu-apkalposanas-darbinieks-ce-lido-atputas-centrs-riga-as-lido-1661552",
-   "company": "AS LIDO",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
    ],
    "tags": []
   }
