@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 20:03",
+ "updated": "2026-11-21 20:38",
  "today": "2026-11-21",
  "archive_days": 30,
  "source_counts": {
@@ -47,6 +47,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-21",
+   "expires": "",
    "first_seen": "2026-11-21",
    "groups": [
     "marketing"
@@ -64,6 +65,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-21",
+   "expires": "",
    "first_seen": "2026-11-21",
    "groups": [
     "marketing"
@@ -81,6 +83,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-21",
+   "expires": "2026-11-26",
    "first_seen": "2026-11-21",
    "groups": [
     "admin"
@@ -96,6 +99,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-21",
+   "expires": "2026-11-26",
    "first_seen": "2026-11-21",
    "groups": [
     "admin"
@@ -192,6 +196,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-21",
+   "expires": "2026-11-25",
    "first_seen": "2026-11-21",
    "groups": [
     "ai"
@@ -274,6 +279,7 @@
    "description": "Vai tevi aizrauj mārketings, digitālā komunikācija un pasākumu organizēšana, kā arī vēlies šīs jomas izzināt vairāk? Tev būs iespēja: Ikdienā cieši sadarboties ar pārdošanas un mārketinga projektu vadītājiem - sniegt atbalstu dažādu projektu uzdevumu izpildē Palīdzēt organizēt un nodrošināt…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-21",
    "groups": [
@@ -290,6 +296,7 @@
    "description": "SUN FINANCE is a Riga-based fintech company providing financial services across four continents. Founded in 2017, we’ve grown beyond the startup phase—but we’ve kept its energy and innovation, now strengthened by stability and a great work environment. Our success-driven team thrives on…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-21",
    "groups": [
@@ -306,6 +313,7 @@
    "description": "Veselības apdrošināšana; 1 diena nedēļā attālināti.",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-21",
    "groups": [
@@ -389,6 +397,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -407,6 +416,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -423,6 +433,7 @@
    "description": "\"Our people are the heart of Norwegian. We embrace a culture of diversity, equality, and inclusion. Embracing this culture is critical to our business success and makes us stronger together. Our people have different strengths, experiences, and backgrounds, but all share a passion for our vision:…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -441,6 +452,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "marketing",
@@ -457,6 +469,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "admin"
@@ -472,6 +485,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "admin"
@@ -489,6 +503,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "admin"
@@ -504,6 +519,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "hr"
@@ -535,6 +551,7 @@
    "description": "vidējā izglītība; vēlama pieredze klientu apkalpošanas jomā; prasmes informācijas apkopošanā, analīzē un dokumentu noformēšanā; ļoti labas komunikācijas prasmes, iniciatīva, orientācija uz klientu; spēja strādāt komandā un patstāvīgi organizēt savu darbu; labas prasmes standarta biroja…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -551,6 +568,7 @@
    "description": "vidējā vai augstākā izglītība; vēlama iepriekšēja darba pieredze līdzvērtīgā darbā; labas saskarsmes spējas, laipna un atsaucīga attieksme; atbildības sajūta un precizitāte; obligātas valsts valodas zināšanas, labas angļu valodas zināšanas (sadarbībai ar ārvalstu pacientiem); labas zināšanas un…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -567,6 +585,7 @@
    "description": "Pieredze mārketingā, komunikācijā, pārdošanā vai klientu apkalpošanā – īpaši digitālajā mārketingā. Izpratne, ka mārketings nav tikai reklāmas palaišana – tā ir arī komunikācija, saturs, klientu pieredze un uzņēmuma tēls. Prasme veidot saturu sociālajiem tīkliem: idejas, struktūra, teksti,…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -585,6 +604,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -603,6 +623,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-04",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -619,6 +640,7 @@
    "description": "SUN FINANCE is a Riga-based fintech company providing financial services across four continents. Founded in 2017, we’ve grown beyond the startup phase—but we’ve kept its energy and innovation, now strengthened by stability and a great work environment. Our success-driven team thrives on…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -635,6 +657,7 @@
    "description": "Meklējam kolēģi darbam ar Meta un TikTok reklāmām Latvijā, Lietuvā, Igaunijā un Rumānijā. PPC vadītājs atbildēs par reklāmas stratēģiju, mērķiem un budžetu. Saskaņotā budžeta ietvaros tu patstāvīgi organizēsi kampaņu ikdienas darbu un lemsi, ko testēt un ko mainīt. • Plānot, uzstādīt, palaist un…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -653,6 +676,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -671,6 +695,7 @@
    "description": "About the role Would you be interested in driving improvements and turning resilience requirements into practical actions? We are looking for a Digital Resilience Specialist who can help strengthen digital resilience across If by coordinating improvement initiatives, facilitating collaboration…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-06",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -689,6 +714,7 @@
    "description": "Veselības un nelaimes gadījumu apdrošināšana; gada prēmija par darba sniegumu;",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -705,6 +731,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-11-30",
    "remote_type": "FULLY_REMOTE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -723,6 +750,7 @@
    "description": "Pieredze personāla lietvedībā vai administratīvā darbā; Izpratne par darba tiesību un personāla dokumentācijas pamatprincipiem; Pieredze darbā ar personāla uzskaites vai lietvedības sistēmām, tiks uzskatīta par priekšrocību; Interese un spēja organizēt jaunas sistēmas ieviešanu un sakārtot…",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -739,6 +767,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -757,6 +786,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-20",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -775,6 +805,7 @@
    "description": "Norādītais atalgojuma intervāls ietver piemaksu par darba sniegumu mēnesī.",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-04",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -794,6 +825,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-20",
+   "expires": "2026-12-07",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -812,6 +844,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "support",
@@ -828,6 +861,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "hr"
@@ -845,6 +879,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "support"
@@ -860,6 +895,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-20",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "admin"
@@ -971,6 +1007,7 @@
    "description": "Excellent written and spoken English, as you’ll communicate daily with international B2B customers. Strong communication, analytical, and problem-solving skills. A proactive approach and ability to take ownership of customer issues. Confidence working with technology and learning new software.…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-18",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -989,6 +1026,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-20",
    "groups": [
@@ -1006,6 +1044,7 @@
    "description": "Responsibilities: Define and drive ERGO Baltics' AI strategy and roadmap in alignment with business, technology and risk priorities. Lead the AI Solutions Division and own the AI portfolio across the Baltics. Identify, prioritize and oversee AI initiatives, ensuring measurable business value and…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -1024,6 +1063,7 @@
    "description": "Plānošana un vadība: sadarbībā ar pārdošanas un iznomāšanas komandu izstrādāt dzīvokļu pārdošanas un biroju iznomāšanas projektu mārketinga aktivitātes; sadarbībā ar apsaimniekošanas biznesa virzienu īstenot mārketinga aktivitātes, veicinot pakalpojuma atpazīstamību tirgū; identificēt…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -1042,6 +1082,7 @@
    "description": "Founded in early 2010, our client is a global data MVNO that delivers enterprise-grade global connectivity and IoT services across more than 200 countries and 600+ mobile carriers' networks. Their secured network provides advanced network protection and web content intelligence. Through a powerful,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-20",
    "groups": [
@@ -1157,6 +1198,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
+   "expires": "",
    "first_seen": "2026-11-20",
    "groups": [
     "marketing"
@@ -1172,6 +1214,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-24",
    "first_seen": "2026-11-19",
    "groups": [
     "ai"
@@ -1202,6 +1245,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -1217,6 +1261,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -1234,6 +1279,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -1311,6 +1357,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -1328,6 +1375,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -1362,6 +1410,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -1701,6 +1750,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1717,6 +1767,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-18",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1733,6 +1784,7 @@
    "description": "Valodu zināšanas nepieciešamas: Latviešu, Krievu valoda (saziņai ar kolēģiem no Ukrainas), Angļu valida(saziņai ar kolēģiem no ārzemēm) Papildu labumi: Bezmaksas autostāvvieta, veselības apdrošināšana, sporta, deju un citu aktivitāšu izdevumu kompensācija, dāvanas nozīmīgos dzīves notikumos,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1750,6 +1802,7 @@
    "description": "Pievienojies Elpis SIA – pasaules līderim garšvielu un ārstniecības augu tirdzniecībā! Elpis SIA ir dinamiska un strauji augoša kompānija, kas specializējas garšvielu, ārstniecības augu un dabīgu produktu iepirkumos un piegādēs visā pasaulē. Mēs meklējam precīzu un proaktīvu lietvedi, lai…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1766,6 +1819,7 @@
    "description": "Design has changed more in the last 12 months than in the previous five. AI now generates first drafts of images, layouts, video and copy in minutes. That makes taste, brand governance and systems thinking the scarce skills. We need a lead who can direct AI as a production engine while keeping…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1784,6 +1838,7 @@
    "description": "Vivicta (agrāk zināma kā Tietoevry Tech Services) ar prieku uzsāk aizraujošu ceļojumu jaunā īpašnieka vadībā. Šīs pārmaiņas sniedz jaunas iespējas, izaicinājumus un izaugsmes iespējas gan mūsu uzņēmumam, gan darbiniekiem. Pievienojies mūsu Lietotāju Atbalsta departamentam un nodrošini IT atbalstu…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1802,6 +1857,7 @@
    "description": "Meklējam mārketinga projektu vadītāju ar pieredzi B2B mārketingā, kurš spēj izprast klientu biznesa vajadzības, veidot mērķtiecīgu komunikāciju un īstenot mārketinga aktivitātes, kas palīdz uzņēmumam augt un piesaistīt jaunus klientus. Plānot un īstenot B2B mārketinga aktivitātes atbilstoši…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-17",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1820,6 +1876,7 @@
    "description": "EXILITY is hiring a Linux Systems Administrator EXILITY is a fintech company. We’re looking for someone to keep our Linux infrastructure running reliably and help us improve and automate it. Responsibilities Design, install, configure, and maintain Linux servers. Maintain, improve, and optimize…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1836,6 +1893,7 @@
    "description": "CV-Online Recruitment klients - neliels uzņēmums, kas darbojas finanšu tirgos, uzņēmuma izpilddirektoram ir nepieciešams cilvēks, kurš pārņemtu daļu no viņa ikdienas pienākumiem – gan biznesā, gan personīgajā dzīvē. Jūs strādāsiet tiešā sadarbībā ar izpilddirektoru, nevis komandā vai nodaļā.…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1852,6 +1910,7 @@
    "description": "Higher education degree in Business Administration, Information Systems, Project Management, Quality Assurance, or a related field. At least 3 years of experience in analyzing, driving, and implementing changes in business processes. Strategic and analytical mindset, combined with a strong customer…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1870,6 +1929,7 @@
    "description": "Manage the full contract lifecycle, including drafting, reviewing, negotiating, signing, and monitoring contracts. Support contract negotiations and administration and where required negotiate contracts to ensure fair terms and reduce legal and business risks. Ensure contracts comply with Latvian…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1886,6 +1946,7 @@
    "description": "The Global Digital Hub has been established within Roche Services & Solutions Center in Budapest. Our main purpose is to strengthen the digital capabilities of Roche globally by supporting central initiatives with Social Media Management, Brand Support, Digital Publishing Services, Marketing…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1904,6 +1965,7 @@
    "description": "Augstākā izglītība tiesību zinātnē Darba pieredze banku nozarē vismaz 3 gadi Klientu apkalpošanas juridisko jautājumu pārzināšana Klientu identifikācijas prasību un klientu (rezidentu un nerezidentu) juridisko dokumentu pārzināšana NILLNTPF/sankciju joma regulējošo normatīvo dokumentu bāzes…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1922,6 +1984,7 @@
    "description": "The Global Digital Hub has been established within the Roche Services & Solutions Center. Our main purpose is to strengthen Roche's digital capabilities globally by supporting central initiatives with Social Media Management, Brand Support, Digital Publishing Services, Marketing Automation,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1940,6 +2003,7 @@
    "description": "The Global Digital Hub has been established within the Roche Services & Solutions Center. Our main purpose is to strengthen Roche's digital capabilities globally by supporting central initiatives with Social Media Management, Brand Support, Digital Publishing Services, Marketing Automation,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1958,6 +2022,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1976,6 +2041,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -1992,6 +2058,7 @@
    "description": "WEST KREDIT meklē biroja vadītāju! Aicinām mūsu komandai pievienoties atbildīgu, enerģisku un organizētu biroja vadītāju, kurš spēj nodrošināt ikdienas biroja darba efektīvu organizēšanu, koordinēt administratīvos procesus un palīdzēt uzņēmumam sasniegt izvirzītos mērķus. Nodrošināt dokumentu…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2008,6 +2075,7 @@
    "description": "Vivicta (agrāk zināma kā Tietoevry Tech Services) ar prieku uzsāk aizraujošu ceļojumu jaunā īpašnieka vadībā. Šīs pārmaiņas sniedz jaunas iespējas, izaicinājumus un izaugsmes iespējas gan mūsu uzņēmumam, gan darbiniekiem. Pievienojies mūsu Lietotāju Atbalsta departamentam un nodrošini IT atbalstu…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2026,6 +2094,7 @@
    "description": "Eunomia Traffic AG ir tehnoloģiju ražošanas uzņēmums, kas izstrādā, ražo un ievieš ātruma kontroles iekārtas klientiem Latvijā un starptautiskajos tirgos. Meklējam praktisku un zinātkāru speciālistu, kurš uzstādīs un konfigurēs ātruma kontroles sensorus un videokameras, sakaru un elektronikas…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2042,6 +2111,7 @@
    "description": "Privātmāju jaunbūvju un pārbūvju projektu koordinēšana dažādās projekta stadijās Projekta dokumentācijas un rasējumu pārbaude, trūkstošās informācijas un nākamo darbu noteikšana Uzdevumu koordinēšana ar rasētājiem, būvinženieriem un citiem projekta speciālistiem Komunikācija ar klientiem,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-22",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2058,6 +2128,7 @@
    "description": "Södra ir Zviedrijas meža īpašnieku kooperatīvs un viens no vadošajiem meža nozares uzņēmumiem Eiropā. Sia Södra Latvija ir daļa no Södra grupas un atbalsta tās darbību un sadarbību ar vietējiem partneriem un klientiem. Nodrošināt ikdienas biroja darba organizēšanu un administratīvo atbalstu.…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2092,6 +2163,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -2122,6 +2194,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-19",
+   "expires": "2026-11-23",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -2137,6 +2210,7 @@
    "description": "Volvo Cars ir pirmais automobiļu ražošanas uzņēmums pasaulē, kurš izveidojis jauna tipa auto darbnīcas, kas palīdzēs klientiem atvieglot rūpes par automobili. Atsakoties no vecajām darba metodēm, esam pieņēmuši jaunu stratēģiju tehniskās apkopes un remonta veikšanai auto darbnīcā. Mēs to dēvējam…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2154,6 +2228,7 @@
    "description": "Founded in early 2010, our client is a global data MVNO that delivers enterprise-grade global connectivity and IoT services across more than 200 countries and 600+ mobile carriers' networks. Their secured network provides advanced network protection and web content intelligence. Through a powerful,…",
    "source": "CV.lv",
    "posted": "2026-11-19",
+   "expires": "2026-12-19",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2170,6 +2245,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-18",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -2298,6 +2374,7 @@
    "description": "CV – Online recruitment klients izsludina konkursu amatam: Sporta centra administrators/-e Aicinām savā komandā adminstratoru darbam ar apmeklētājiem. Komunikācija ar klientiem klātienē, pa telefonu un e-pastā Apmeklētāju un telpu noslodzes koordinēšana Informācijas sagatavošana un dokumentu…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2314,6 +2391,7 @@
    "description": "Mapon builds B2B SaaS for companies whose work happens in the physical world. Our platform helps businesses manage vehicles, drivers, and equipment, improve road safety, reduce costs, automate daily operations, and comply with complex transport regulations. We started in Riga in 2006. Today, more…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-28",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2332,6 +2410,7 @@
    "description": "Vai vēlies iepazīt darbu bankā, iegūt jaunas zināšanas par krāpšanas novēršanas nozari un tevi aizrauj dati un to apstrāde? Tev būs iespēja: Iegūt praktisku pieredzi krāpšanas novēršanas procesos un darbā ar finanšu datiem Veikt datu apstrādi Sniegt atbalstu Krāpšanas monitoringa speciālistiem…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-04",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2348,6 +2427,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2364,6 +2444,7 @@
    "description": "Mēs meklējam aktīvu un uzticamu administratoru darbam ar profesionālo kosmētiku. Galvenie pienākumi Komunikācija ar klientiem (B2C un B2B) Rēķinu sagatavošana un dokumentācijas pārvaldība Noliktavas uzskaite un inventarizācija Sociālo tīklu administrēšana Jaunu klientu piesaistes atbalsts un…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2380,6 +2461,7 @@
    "description": "Darba pienākumi: Vadīt pilna cikla personāla atlases procesus dažādu līmeņu vakancēm Sadarboties ar vadītājiem darbinieku piesaistes, izvērtēšanas un attīstības jautājumos Veicināt talantu piesaisti un darba devēja tēla atpazīstamību, t.sk. organizējot sadarbības iniciatīvas ar augstskolām,…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-29",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2398,6 +2480,7 @@
    "description": "Mūsu komandai ir nepieciešams Personāla speciālists – cilvēks, kurš ar vienādu aizrautību sakārtos dokumentāciju, ievadīs darbā jaunos kolēģus un palīdzēs veidot darba vidi, kurā ikviens vēlas atgriezties. Mēs piedāvājam telpu tavām idejām, sakārtotus procesus un komandu, kas novērtēs tavu…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2414,6 +2497,7 @@
    "description": "Atalgojums no 3500 EUR mēnesī (Bruto)",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-25",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2430,6 +2514,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-21",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2446,6 +2531,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2462,6 +2548,7 @@
    "description": "motivējoša mainīgā atalgojuma daļa, veselības un nelaimes apdrošināšana, 5 nedēļu ikgadējais apmaksātais atvaļinājums",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-11",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2480,6 +2567,7 @@
    "description": "RTU aicina darbā LIETOTĀJU ATBALSTA SPECIĀLISTU/I, specializācijā Moodle sistēmas un ar studiju procesu saistītos IT jautājumos; Informācijas tehnoloģijas departamentā, IT Pakalpojumu centrā. Tavi pienākumi būs: Konsultēt RTU mācībspēkus par e-studiju vides (Moodle) lietošanu un regulāri sniegt…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-04",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2498,6 +2586,7 @@
    "description": "RTU aicina darbā LIETOTĀJU ATBALSTA SPECIĀLISTU/I Informācijas tehnoloģijas departamentā, IT Pakalpojumu centrā. Tavi pienākumi būs: Nodrošināt pirmā līmeņa lietotāju atbalstu universitātes darbiniekiem un studentiem (klātienē, pa tālruni, e-pastu un izmantojot pieteikumu sistēmu Jira). Konsultēt…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-04",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2516,6 +2605,7 @@
    "description": "RTU aicina pievienoties komandai PROREKTORA VADĪBAS ASISTENTU/-I (EXECUTIVE ASSISTANT) Attīstības un finanšu prorektora dienestā. Meklējam kolēģi, kurš kopā ar prorektoru veidos efektīvu un mūsdienīgu vadības darbu. Ar mākslīgā intelekta (MI) rīku palīdzību Tu sagatavosi lēmumu pieņemšanai…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-28",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2532,6 +2622,7 @@
    "description": "Aicinām RTU komandai pievienoties VECĀKO PERSONĀLA SPECIĀLISTU/-I Darba tiesisko attiecību pārvaldības nodaļā. Rīgas Tehniskā universitāte paplašina personāla vadības komandu, attīstot un digitalizējot personāla procesus. Meklējam pieredzējušu kolēģi, kurš patstāvīgi kārtos ārvalstnieku…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-28",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2550,6 +2641,7 @@
    "description": "•Augstāko izglītību komunikācijas zinātnē, sabiedriskajās attiecībās, mārketingā, digitālajā komunikācijā, mediju studijās, radošajās industrijās, dizainā vai projektu vadībā; •Vismaz 2 gadu profesionālo pieredzi darbā ar sociālajiem tīkliem un digitālo mārketingu, tai skaitā video saturu (TikTok,…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-11",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2568,6 +2660,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-28",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2584,6 +2677,7 @@
    "description": "From Ukraine to Europe: Nova Post Europe is already operating in 16 countries — and we keep growing every day. Our team is united by the desire to move forward, achieve results, and explore new opportunities together. Customer Care Center is the heart of the company, working proactively through…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-18",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2602,6 +2696,7 @@
    "description": "SIA LIGNUM LATVIJAir Latvijas meža nozares uzņēmums, kas iegādājas un pārvalda meža īpašumus, veidojot ilgtermiņa investīciju portfeli. SIA LIGNUM LATVIJA aicina komandā organizētu, analītisku un iniciatīvas bagātu kolēģi, kurš/-a palīdzēs uzņēmuma vadītājam ikdienas darbā un koordinēs meža īpašumu…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-18",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2620,6 +2715,7 @@
    "description": "Mūkusalas 97, Rīga, Latvia Pilna laika Legal Entity: Robert Bosch SIA Kompensācija: no EUR 1,800 - mēneša Uzņēmuma apraksts Vēlaties ar savām idejām sniegt ieguldījumu mūsdienīgā uzņēmumā? Neatkarīgi no jomas – mobilitātes risinājumi, plaša patēriņa preces, rūpniecības tehnoloģijas vai enerģijas un…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-04",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2636,6 +2732,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2652,6 +2749,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-21",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2668,6 +2766,7 @@
    "description": "Experience the power of a game-changing career. Join Concentrix as Customer Support specialist! About the role, as a Customer Support Specialist, you will be responsible for Bringing great customer service to the customers via phone and e-mail in Danish and English language. Our support team only…",
    "source": "CV.lv",
    "posted": "2026-11-18",
+   "expires": "2026-11-21",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -2686,6 +2785,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -2701,6 +2801,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "ai"
@@ -2718,6 +2819,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -2733,6 +2835,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -2750,6 +2853,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -2765,6 +2869,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-17",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -3037,6 +3142,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3053,6 +3159,7 @@
    "description": "Nelaimes gadījumu apdrošināšanas; Veselības apdrošināšanas polise pēc pārbaudes laika",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3071,6 +3178,7 @@
    "description": "Digitālās pārdošanas speciālistu/i Zīmolu izplatīšanas un mārketinga uzņēmums, kas palīdz globāliem zīmoliem Baltijā un Skandināvijas valstu tirgū realizēt un veicināt modes aksesuāru un citu izstrādājumu realizāciju, ievērojot visas zīmolu vadlīnijas. Sakarā ar apjoma palielināšanos, aicinām…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3087,6 +3195,7 @@
    "description": "Apdrošināšanas piedāvājumu un polišu saskaņošana; Ikdienas komunikācija ar sadarbības partneriem; Polišu administrēšana - pārtraukšana un anulēšana; Darbs ar datu bāzēm, atskaišu sagatavošana; Priekšlikumu, rekomendāciju un uzlabojumu izstrāde. Ļoti labas komunikācijas un sadarbības prasmes;…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3103,6 +3212,7 @@
    "description": "Pieredze mārketinga, komunikācijas vai līdzīgu projektu vadībā un īstenošanā. Labas prasmes tekstu veidošanā un spēja sarežģītu tehnisko informāciju pasniegt skaidri un saprotami. Pieredze sociālo tīklu satura veidošanā un administrēšanā, īpaši LinkedIn. Labas prasmes darbā ar MS PowerPoint un…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3121,6 +3231,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3137,6 +3248,7 @@
    "description": "Vismaz 3+ gadu pieredze komunikācijas projektu jomā (pieredzi darbā PR aģentūrā vērtēsim kā priekšrocību). Pabeigta augstākā izglītība komunikācijas vai mārketinga jomā. Ļoti labas latviešu valodas prasmes gramatika un stilistika, teicama angļu valoda, novērtēsim, ja būs arī krievu valodas…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-02",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3155,6 +3267,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3173,6 +3286,7 @@
    "description": "Are you passionate about attracting top talent and creating a great employee experience? Join Arvato Systems Latvia as a Senior Talent Acquisition Specialist. You will play a key role in recruiting IT professionals, shaping our talent acquisition strategy and using data to improve recruitment. You…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3191,6 +3305,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3209,6 +3324,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-24",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3225,6 +3341,7 @@
    "description": "*Pieredze darbā ar klientiem *Pozitīva attieksme un izcilas klientu apkalpošanas prasmes *Latviešu un vismaz angļu valodas zināšanas (saziņai ar ārvalstu klientiem) *Spēja plānot savu darbu un augsta atbildības sajūta *Lieliskas komunikācijas un problēmu risināšanas prasmes *Spēja strādāt gan…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3243,6 +3360,7 @@
    "description": "Health Insurance, Flexible Schedule, Team Padel, Psychologist & Massage Therapist, Team Events & Trips. Extra bonuses: Cinema Tickets, SPA Gift Certificates, Company Merchandise, and Birthday Gifts.",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3261,6 +3379,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-01",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3277,6 +3396,7 @@
    "description": "PIEVIENOJIES KIVI REAL ESTATE KOMANDAI! Meklējam uzņēmuma asistentu/-i Meklējam organizētu, atsaucīgu un precīzu kolēģi, kurš palīdzēs nodrošināt raitu biroja ikdienas darbu un sniegs atbalstu mūsu nekustamo īpašumu komandai. Tavi galvenie pienākumi: Sniegt ikdienas administratīvo atbalstu…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3293,6 +3413,7 @@
    "description": "Veselības apdrošināšana pēc pārbaudes laika un citi uzņēmuma labumi.",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3311,6 +3432,7 @@
    "description": "Precizitāte un atbildība pret veicamajiem darbiem. Spēja patstāvīgi un racionāli organizēt savu darbu un darba laiku. Vēlme pilnveidot savas profesionālās prasmes un nepārtraukti mācīties. Tehniskā domāšana. Ļoti labas latviešu valodas un angļu sarunvalodas zināšanas. Angļu valodas zināšanas…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3327,6 +3449,7 @@
    "description": "Veselības apdrošināšana, apmaksātas pusdienas (55 EUR / mēnesī), apmācību iespējas, kopīgi pasākumi, komandas saliedēšanās aktivitātes, u.c.",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3343,6 +3466,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-25",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3359,6 +3483,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3377,6 +3502,7 @@
    "description": "LevelPath (www.levelpath.com) - IT Camp partner - a modern AI-powered procurement platform helping global enterprises simplify and optimize procurement processes. Founded in 2022, the company enables organizations to gain better visibility, control, and efficiency across the entire procurement…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3395,6 +3521,7 @@
    "description": "The Global Digital Hub has been established within Roche Services & Solutions Center in Budapest. Our main purpose is to strengthen the digital capabilities of Roche globally by supporting central initiatives with Social Media Management, Brand Support, Digital Publishing Services, Marketing…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3413,6 +3540,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-17",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3429,6 +3557,7 @@
    "description": "Informējam, ka Jūsu pieteikuma dokumentos norādītie personas dati un darba intervijas laikā sniegtā informācija (gadījumā, ja Jūs tiksiet uzaicināts/-a uz darba interviju) tiks apstrādāti personāla atlases mērķim un Baltijas Apdrošināšanas Nams AAS tiesisko interešu nodrošināšanai, ciktāl tās…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3445,6 +3574,7 @@
    "description": "Veselības apdrošināšana pēc nostrādātiem sešiem mēnešiem",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3462,6 +3592,7 @@
    "description": "Veselības apdrošināšana pēc nostrādātiem sešiem mēnešiem.",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3478,6 +3609,7 @@
    "description": "Veselības apdrošināšanas polise",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3494,6 +3626,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-23",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3512,6 +3645,7 @@
    "description": "The Global Digital Hub is a growing business line within the Roche Services & Solutions Center. Our primary goal is to enhance Roche's digital capabilities globally by supporting central initiatives in areas such as Social Media Management, Brand Support, Digital Publishing Services, Marketing…",
    "source": "CV.lv",
    "posted": "2026-11-17",
+   "expires": "2026-11-27",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3530,6 +3664,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -3545,6 +3680,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -3560,6 +3696,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-16",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing",
@@ -3624,6 +3761,7 @@
    "description": "sākot no 1900 EUR un papildus piemaksa",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-23",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3640,6 +3778,7 @@
    "description": "Marketing Angels, pilna servisa mārketinga aģentūra, meklē pieredzējušu DIGITĀLĀS REKLĀMAS SPECIĀLISTU (PPC speciālistu) - foršu un profesionālu kolēģi, ar kuru kopā sasniegt jaunas virsotnes. Vismaz 2 gadu pieredze Meta un Google Ads plānošanā, pirkšanā un optimizācijā; Spēja patstāvīgi saplānot,…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-01",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3658,6 +3797,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3676,6 +3816,7 @@
    "description": "At Alojas, we turn science and innovation into smarter, more sustainable ingredient solutions for the global food and feed industry. We're looking for an Account Support Specialist to join our Riga team! What you'll do Manage customer orders from start to delivery. Be the go-to person for customer…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3692,6 +3833,7 @@
    "description": "Health insurance, professional growth, Ecommpay discount card, attend trainings, workshops, conferences & internal corporate events. In Ecommpay office you can use the gym, attend English language lessons and enjoy fresh fruits every week.",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-09",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3710,6 +3852,7 @@
    "description": "Par Entain Mēs esam Entain NCE (Entain North and Central Europe) – daļa no Entain, viena no lielākajiem iGaming uzņēmumiem pasaulē. Mūsu vīzija ir kļūt par pasaules līderi sporta likmju, azartspēļu un interaktīvās izklaides jomā. Mēs to sasniegsim, koncentrējoties uz ilgtspēju un izaugsmi,…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3726,6 +3869,7 @@
    "description": "35,000+ active clients. 400,000+ connected devices in 170+ countries. And 200+ colleagues behind it all. Mapon is an established European B2B SaaS and telematics company helping businesses manage their vehicles, people and assets. Our platform supports real-world operations by helping customers…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3744,6 +3888,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3760,6 +3905,7 @@
    "description": "Responsibilities: Translate the ERGO Global Brand strategy into a clear implementation plan across Lithuania, Latvia, and Estonia - aligned where consistency is required, localised where appropriate. Drive adoption across all three markets, securing alignment with the local marketing teams through…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-29",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3778,6 +3924,7 @@
    "description": "Atalgojums no 1300 euro mēnesī (Bruto)",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3794,6 +3941,7 @@
    "description": "“Ikvienam, kas pievienojas mūsu kolektīvam jebkurā līmeņa amatā, ir iespēja sasniegt vadītāja amatu un kļūt par uzņēmuma partneri.” Antons Sapriko, uzņēmuma dibinātājs Praktiska pieredze e-komercijā – spēja veicināt klientu noturēšanu (retention), audzēt klienta dzīves cikla (lifetime value) un…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3812,6 +3960,7 @@
    "description": "HARTVIK F AICINA KOMANDĀ VIZUĀLĀ SATURA VEIDOTĀJU HARTVIK F NAMS Brīvības ielā Rīgā ir pazīstams ar saviem radošajiem skatlogiem un uzmanību pret detaļām gan interjerā, gan ēdienu gatavošanā un pasniegšanā. Meklējam radošu, patstāvīgu satura speciālistu ar izkoptu vizuālo gaumi, grafiskā dizaina…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3828,6 +3977,7 @@
    "description": "Veidot un realizēt e-veikalu izaugsmes plānus, kampaņu kalendāru un attīstības projektus gan Latvijā, gan Lietuvā; Plānot, uzstādīt un optimizēt Google un Meta reklāmas kampaņas un to budžetus; Attīstīt e-veikalu: produktu un landing lapas, pirkuma ceļu un konversiju; Attīstīt e-pasta mārketingu,…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3844,6 +3994,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3860,6 +4011,7 @@
    "description": "Mēs, Enreach, palīdzam uzņēmumiem sazināties efektīvāk - izstrādājam un uzturam biznesa komunikācijas risinājumus, ieviešam mākslīgā intelekta risinājumus un nodrošinām pilna servisa IT atbalstu. Aicinām komandā Biznesa klientu attiecību vadītāju, kura(-s) galvenais uzdevums būs piesaistīt jaunus…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3878,6 +4030,7 @@
    "description": "Tehniskā domāšana, vēlēšanās mācīties. Precizitāte, atbildība un fiziskā izturība. Spējas un vēlēšanās strādāt komandā. Valsts valodas zināšanas vismaz sarunvalodas līmenī. Spējas strādāt dienas un nakts maiņās pa 12h, saskaņā ar slīdošo maiņu grafiku. Sagatavot iekārtu vai līnijas daļu darbam…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3894,6 +4047,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3910,6 +4064,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3928,6 +4083,7 @@
    "description": "Veselības apdrošināšana pēc nostrādātiem sešiem mēnešiem",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3944,6 +4100,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3960,6 +4117,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3976,6 +4134,7 @@
    "description": "Who we are looking for We are looking for someone who combines recruitment instinct with strong judgement and disciplined follow-up. You: Have excellent spoken and written English. Have solid experience in recruitment or talent acquisition. Are comfortable recruiting internationally. Know how to…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "FULLY_REMOTE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -3994,6 +4153,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4010,6 +4170,7 @@
    "description": "Īpaši piedāvājumi medicīnas grupas ietvaros.",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4026,6 +4187,7 @@
    "description": "Medexy tika dibināts 2020. gadā Latvijā un mūsu galvenā misija ir nodrošināt klientiem iespēju atrisināt dažādas ādas problēmas, piedāvājot augstas kvalitātes kosmētiku, kas atbilst visiem vecuma un ādas tipa kritērijiem.Mēs esam lepni pārstāvēt vairāk nekā 15 kvalitatīvus zīmolus, kuru…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4042,6 +4204,7 @@
    "description": "RTU aicina pievienoties komandai STUDIJU PROREKTORA ASISTENTU/-I kurš/-a nodrošinās administratīvu un organizatorisku atbalstu prorektora ikdienas darbā, palīdzēs koordinēt uzdevumu izpildi un veicinās sadarbību ar iesaistītajām struktūrvienībām. Tavi galvenie amata pienākumi būs: plānot un…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4058,6 +4221,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4076,6 +4240,7 @@
    "description": "Mēs paplašinām savu komandu un meklējam Lielo klientu vadītāju (Key Account Manager) Latvijas klientiem - profesionāli, kuru aizrauj pārdošana, kuram/ai piemīt stratēģiskā domāšana un kurš/a vēlas pieņemt Latvijas vairumtirdzniecības izaicinājumus sadzīves tehnikas un elektronikas preču grupām. Ja…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4094,6 +4259,7 @@
    "description": "Precizitāte un atbildība pret veicamajiem darbiem. Spēja patstāvīgi un racionāli organizēt savu darbu un darba laiku. Vēlme pilnveidot savas profesionālās prasmes un nepārtraukti mācīties. Tehniskā domāšana. Ļoti labas latviešu valodas un angļu sarunvalodas zināšanas. Angļu valodas zināšanas…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4110,6 +4276,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4126,6 +4293,7 @@
    "description": "Kvita is a comprehensive solution provider specializing in handling the diverse needs of e-commerce businesses. We offer tailored processing solutions to optimize payment flows for IT and financial sectors. What you'll be doing: Give excellent support to our exclusive customers through live chat…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4142,6 +4310,7 @@
    "description": "Are you interested in Customer Service in the world leading industrial coating resins company? We are looking for motivated and self-organized individual with \"can do\" attitude to join our team. In this role, you will support customers across the Middle East and Africa region, coordinating orders…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4160,6 +4329,7 @@
    "description": "Papildu piemaksa par darba sniegumu ceturksnī.",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4179,6 +4349,7 @@
    "description": "SIA WePack ir uzņēmums, kura profesionālā darbība ir izstrādāt un ražot augstākās kvalitātes individuālus premium iepakojuma risinājumus, kas aptver visus iepakojuma ražošanas posmus, sākot no idejas dizaina līdz gataviem produktu iepakojuma risinājumiem. Vairāk par mums…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4195,6 +4366,7 @@
    "description": "We are looking for a proactive and detail-oriented Customer Support Specialist (English & Russian) to join our team. Fluency in both languages is essential for communicating effectively with international clients. As the main point of contact for our customers, you will primarily provide support…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-16",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4211,6 +4383,7 @@
    "description": "Piedāvājam darbu Auto Detailing centra menedžerim/-ai, kurš/-a uzņemsies atbildību par Detailing un pretrūsas ikdienas darba organizēšanu un pakalpojumu kvalitāti, kā arī aktīvi strādās ar esošajiem klientiem un jaunu klientu piesaisti. Šis amats būs piemērots cilvēkam, kurš spēj apvienot praktisku…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4229,6 +4402,7 @@
    "description": "Mēs Tev uzticēsim: Ievadīt, apkopot un analizēt datus par konkrētu preču kategoriju; Gatavot regulārās informatīvās atskaites; Sagatavot lietvedības dokumentus (rīkojumi, akti, u.c.); Sadarbību ar piegādātājiem; Asistēt preču kategorijas vadītājam ikdienas darbā. Mēs sagaidām: Augstāko izglītību…",
    "source": "CV.lv",
    "posted": "2026-11-16",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4245,6 +4419,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "web"
@@ -4260,6 +4435,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -4275,6 +4451,7 @@
    "description": "🔸 Ko Tu darīsi: Palīdzēsi klientiem ar pasūtījumu apstrādi un izsekošanu; Koordinēsi darbu ar loģistikas un pārdošanas komandām, lai nodrošinātu netraucētu piegādes procesu; Pārvaldīsi dokumentus un veiksi ikdienas administratīvos uzdevumus; Komunicēsi ar partneriem un klientiem dažādās valstīs;…",
    "source": "CV.lv",
    "posted": "2026-11-15",
+   "expires": "2026-12-08",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4291,6 +4468,7 @@
    "description": "Health insurance",
    "source": "CV.lv",
    "posted": "2026-11-15",
+   "expires": "2026-12-01",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4310,6 +4488,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-15",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -4325,6 +4504,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -4340,6 +4520,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -4405,6 +4586,7 @@
    "description": "This is a niche role requiring specific experience. We welcome candidates with a background in risk analysis or extensive customer support experience. We value the right mindset and are ready to teach everything else. Project management and ownership Marketing communications planning Campaign…",
    "source": "CV.lv",
    "posted": "2026-11-14",
+   "expires": "2026-12-14",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4421,6 +4603,7 @@
    "description": "Mēs esam strauji augošs sveču, ziepju un kosmētikas izejvielu veikals un e-komercijas uzņēmums ar klientiem Baltijā un Eiropā. Mēs meklējam cilvēku, kurš uzņemsies atbildību par iepirkumu organizēšanu un produktu informācijas pārvaldību e-veikalos – no sadarbības ar piegādātājiem līdz precīzai un…",
    "source": "CV.lv",
    "posted": "2026-11-14",
+   "expires": "2026-12-14",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4437,6 +4620,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-14",
+   "expires": "2026-11-26",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -4452,6 +4636,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -4467,6 +4652,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -4484,6 +4670,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -4501,6 +4688,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -4516,6 +4704,7 @@
    "description": "Uzņēmumā Verda Cloud Oy (reģistrācijas numurs Somijā: 2886809-8) mēs veidojam pilna tehnoloģiskā cikla mākslīgā intelekta (MI) mākoņpakalpojumu infrastruktūru — no datu centriem un aparatūras līdz mūsu pašu mākoņplatformai, ko pasaules vadošās mākslīgā intelekta komandas izmanto nozīmīgu MI…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4534,6 +4723,7 @@
    "description": "Effimodal is an intermodal transport company based in Riga. Our own fleet of trailers moves unaccompanied by ferry and rail between the Baltics, Scandinavia, Germany and Italy. Compact team, modern tools: TMS, GPS tracking, automated workflows and AI. Own the full trailer cycle in your region:…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4552,6 +4742,7 @@
    "description": "Veselības apdrošināšana, kvalifikācijas apmācības",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4569,6 +4760,7 @@
    "description": "Veselības apdrošināšana, izaugsmes iespējas, papildus apmaksātas brīvdienas.",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4588,6 +4780,7 @@
    "description": "Latvijas uzņēmums SIA ADMIN GROUP (https://admingroup.lv/), kas tirgū atrodas jau vairāk kā 5 gadus, sniedz kombinētos biroja administrēšanas ārpakalpojumus, aicina darbā sava klienta ( IT un Biznesa uzņēmuma) birojā: Biroja administartori/-u No kandidātiem sagaidām: Viena gada pieredze līdzīgā…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4604,6 +4797,7 @@
    "description": "KVADRUM SIA Būvniecības uzņēmums (www.kvadrum.lv), kas specializējies daudzveidīgu būvniecības pakalpojumu nozarē (ēku būvniecība un rekonstrukcija), aicina savā profesionālajā komandā: IT infrastruktūras un Microsoft 365 administratoru Par amatu Meklējam IT sistēmu administratoru, kurš uzņemsies…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4620,6 +4814,7 @@
    "description": "Mēs turpinām attīstīt XCredit zīmolu Latvijā, tāpēc meklējam kolēģi, kurš dzīvo digitālajā vidē, seko līdzi aktuālajām tendencēm un spēj idejas ātri pārvērst reālās mārketinga aktivitātēs. Tu cieši sadarbosies ar produktu mārketinga, CRM, pārdošanas un citām grupas komandām. Grupas līmenī saņemsi…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4637,6 +4832,7 @@
    "description": "pieredze darbā uz dzelzceļa un/vai elektriķa pieredze, un/vai pieredze vispārējā būvniecībā; iespēja doties komandējumos uz Vāciju; vēlamas labas vācu valodas prasmes, kas nepieciešamas darbam objektos Vācijā (uztvert drošības instruktāžas/norādījumus, sazināties mutiski ar vietējo darbu vadītāju…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4653,6 +4849,7 @@
    "description": "This role is an 18-month FTC. The Internal Communications team exists to: Drive alignment to the company vision and strategy, so every employee has a clear understanding of our priorities, why they're important, and how their work impacts our success Build trust and connection, so employees are…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4671,6 +4868,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4687,6 +4885,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4703,6 +4902,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4721,6 +4921,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4737,6 +4938,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-29",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4756,6 +4958,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-23",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4774,6 +4977,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-23",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4792,6 +4996,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-22",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4810,6 +5015,7 @@
    "description": "Pievienojies pasaulē atzītam premium nekustamo īpašumu zīmolam un attīsti savas prasmes, strādājot ar starptautiska līmeņa mārketinga rīkiem un ekskluzīviem projektiem Latvia Sothebys International Realty. Mūsu komanda paplašinās, aicinām mums pievienoties MĀRKETINGA UN DIGITĀLĀS REKLĀMAS PROJEKTU…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4826,6 +5032,7 @@
    "description": "Health Insurance, Flexible Schedule, Team Padel, Psychologist & Massage Therapist, Team Events & Trips. Extra bonuses: Cinema Tickets, SPA Gift Certificates, Company Merchandise, and Birthday Gifts.",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4844,6 +5051,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4860,6 +5068,7 @@
    "description": "Plan, coordinate, and oversee marketing campaigns for beer category, ensuring timely and budget-compliant execution. Support new product development and launch from concept to market Coordinate the production and distribution of marketing materials, working closely with suppliers and external…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4876,6 +5085,7 @@
    "description": "Darbs pilna laika režīmā darba dienās plkst. 9.00–18.00; hibrīda darba iespēja; darbs",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4895,6 +5105,7 @@
    "description": "Veselības apdrošināšana",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4911,6 +5122,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4927,6 +5139,7 @@
    "description": "• bakalaura grāds (vēlams finanšu un/vai ekonomikas jomā); • ļoti laba konceptuālā un analītiskā domāšana; • vēlama pieredze darbā ar atalgojuma sistēmu izstrādi un pilnveidošanu; • iniciatīva, labas pārliecināšanas un argumentācijas prasmes, augsta atbildības sajūta; • ļoti labas komunikācijas…",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4945,6 +5158,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-13",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4961,6 +5175,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4977,6 +5192,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-13",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -4994,6 +5210,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-13",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5026,6 +5243,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -5043,6 +5261,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5058,6 +5277,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "web"
@@ -5073,6 +5293,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5088,6 +5309,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5103,6 +5325,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5118,6 +5341,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -5135,6 +5359,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5152,6 +5377,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5167,6 +5393,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "2026-11-26",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5184,6 +5411,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5214,6 +5442,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5229,6 +5458,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5244,6 +5474,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5259,6 +5490,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "admin"
@@ -5307,6 +5539,7 @@
    "description": "We’re CX fanatics, as passionate about our clients as their fans are. It’s why the most-loved brands in the world rely on us. You'll find us behind the brilliance of category-redefining fintechs, technology legends, and more. Now, we are looking for a Talent Acquisition Partner with a fluent…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5325,6 +5558,7 @@
    "description": "Mēs Tev uzticēsim: Veikt inventarizāciju veikalos \"Maxima X\", \"Maxima XX\" un \"Maxima XXX\" visā Latvijā; Pārbaudīt inventarizāciju rezultātus. Mēs sagaidām: Pamatizglītību; Iemaņas darbā ar datoru (MS Office); Labas latviešu valodas zināšanas; Spēju strādāt nakts stundās; Augstu atbildības sajūtu…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5341,6 +5575,7 @@
    "description": "Pārdevējs–konsultants zīmolu apģērbu outletā FINDYS Sveiki! Mēs esam FINDYS — jauns zīmolu apģērbu un apavu outlets Rīgā, Čaka ielā 146 (Terēzes ielas stūrī). Plauktos Tommy Hilfiger, Guess, Levi’s, Nike, adidas, Calvin Klein un citi zīmoli par outleta cenām. Veikals ir tikko atvēries, un mēs…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5357,6 +5592,7 @@
    "description": "Mēs esam uz tehnoloģijām orientēta apdrošināšanas kompānija ar latviešu saknēm, kas ar savu jauno pieeju sašūpina apdrošināšanas nozari. Mūsu noslēpums? Mūsu produktu pamatā ir cilvēku dzīvesveids un automatizācijas jaudas izmantošana. Rezultāts ir apdrošināšanas pieredze, kas ir tikpat vienkārša,…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5373,6 +5609,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5391,6 +5628,7 @@
    "description": "RTU aicina pievienoties komandai Operacionālā direktora vietnieku/-ci personāla vadības jomā. Meklējam pieredzējušu personāla vadības profesionāli ar stratēģisku redzējumu un spēju ieviest pārmaiņas. Amata galvenie uzdevumi ir personāla vadības procesu pilnveide un efektivizēšana, akadēmiskās…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-11-29",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5409,6 +5647,7 @@
    "description": "Darbs vienā no vadošajiem farmācijas vairumtirdzniecības uzņēmumiem Baltijā; elastīgs",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-01",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5427,6 +5666,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5443,6 +5683,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-11-27",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5461,6 +5702,7 @@
    "description": "Develop and own Decta's partner marketing strategy, defining how co-branded campaigns, content, and pipeline Orchestrate co-marketing programs with existing clients and partners: joint case studies, co-authored content, shared webinars, and newsletter features Grow Decta's industry association…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5477,6 +5719,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-12",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5494,6 +5737,7 @@
    "description": "Iepriekšēja pieredze klientu apkalpošanas, administrēšanas vai līdzīgā darbā; Labas datorprasmes un pārliecinošas iemaņas darbā ar MS Office, īpaši Excel; Spēja ātri apgūt un orientēties dažādās informācijas sistēmās; Precizitāte un rūpīga attieksme darbā ar datiem un dokumentiem; Labas…",
    "source": "CV.lv",
    "posted": "2026-11-12",
+   "expires": "2026-12-11",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5512,6 +5756,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "hr"
@@ -5527,6 +5772,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5542,6 +5788,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5557,6 +5804,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5572,6 +5820,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5587,6 +5836,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -5602,6 +5852,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-12",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "marketing"
@@ -5651,6 +5902,7 @@
    "description": "Profymarket is an AI-driven B2B SaaS platform that automates construction procurement for general contractors and real estate developers. The platform`s AI agents send requests to 6,100+ verified suppliers, collect quotes across formats, and compile them into a unified comparison table for C-level…",
    "source": "CV.lv",
    "posted": "2026-11-11",
+   "expires": "2026-12-11",
    "remote_type": "FULLY_REMOTE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5669,6 +5921,7 @@
    "description": "Meklējam pozitīvu, komunikablu un atsaucīgu cilvēku, kuram patīk darbs ar cilvēkiem, kurš ar prieku palīdz citiem un vēlas kļūt par daļu no draudzīga un atbalstoša kolektīva! Priecāsimies, ja Tev piemīt: Pozitīva attieksme pret dzīvi un laba humora izjūta. Sirsnīga vēlme palīdzēt cilvēkiem un…",
    "source": "CV.lv",
    "posted": "2026-11-11",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5685,6 +5938,7 @@
    "description": "Ārvalstu investoru padome Latvijā (FICIL) meklē: KOMUNIKĀCIJAS SPECIĀLISTI/-U FICIL meklē motivētu, radošu, ar labām komunikācijas prasmēm komandas spēlētāju, kurš gatavs likt lietā savas zināšanas, pilnveidot iemaņas un iegūt neatsveramu pieredzi mūsu organizācijā. Ja esi daudzpusīgs un elastīgs…",
    "source": "CV.lv",
    "posted": "2026-11-11",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5701,6 +5955,7 @@
    "description": "Šī nav tipiska biroja pozīcija. Tu būsi cilvēks, kas aktīvi attīsta zīmolus tirgū, strādā ar klientiem klātienē un pārstāv uzņēmumu dažādos nozares pasākumos. Darbs ietver gan pārdošanu, gan attiecību veidošanu, gan praktisku iesaisti ikdienas procesos. Attīstīt un vadīt sava produktu portfeļa…",
    "source": "CV.lv",
    "posted": "2026-11-11",
+   "expires": "2026-12-11",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5717,6 +5972,7 @@
    "description": "Do you enjoy working with data, spotting patterns and making complex processes work smoothly? We are looking for a Sales & Fleet Operations Coordinator to join our Audi team at Moller Baltic Import in Riga. In this role, you will be at the heart of Audi Sales and Fleet operations, working with…",
    "source": "CV.lv",
    "posted": "2026-11-11",
+   "expires": "2026-11-25",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5782,6 +6038,7 @@
    "description": "Vismaz 1-2 gadu pieredze darbā ar zīmolu sociālajiem tīkliem; Spēja rakstīt saistošus tekstus un radīt vizuālus materiālus (dizains, video, vizuālie maketi); Izpratne par sociālo tīklu algoritmiem, tendencēm un auditoriju uzrunāšanu; Labas plānošanas prasmes no idejas līdz publicētam postam; Angļu…",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5798,6 +6055,7 @@
    "description": "Publicis Groupe Latvia aicina komandā pievienoties Mediju mārketinga projektu vadītāju. Tu būsi klientu ikdienas partneris/-e mediju kampaņu īstenošanā – no idejas līdz rezultātiem, kas redzami klienta biznesā. Strādāsi kopā ar mediju speciālistiem, klientu komandām un Publicis Groupe kolēģiem, lai…",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5816,6 +6074,7 @@
    "description": "Augstāko izglītību mārketingā, uzņēmējdarbībā vai līdzīgā jomā; Pieredzi zīmola vai produktu vadībā FMCG segmentā, vēlama pieredze dzērienu kategorijā; Praktisku pieredzi zīmolu attīstībā starptautiskajos un eksporta tirgos; Pieredzi sadarbībā ar ārvalstu izplatītājiem, biznesa partneriem un…",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5832,6 +6091,7 @@
    "description": "Mēs novērtējam katru pieteikumu un sazināsimies ar kandidātiem, kuri tiks izvirzīti nākamajai atlases kārtai. Ja vēlies uzzināt vairāk par uzņēmumu un mūsu vērtībām, apmeklē mūsu mājaslapu: www.ecobaltiavide.lv. Sūtot savu pieteikumu SIA “Eco Baltia vide” (reģ. nr. 40003309841), Tu piekrīti savu…",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5850,6 +6110,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5868,6 +6129,7 @@
    "description": "AICINĀM KOMANDĀ SATURA VEIDOTĀJU (CONTENT CREATOR) Meklējam radošu, enerģisku un idejām bagātu satura veidotāju (Content Creator), kurš palīdzēs attīstīt mūsu apģērbu zīmola un apģērbu ražošanas uzņēmuma atpazīstamību, veidojot kvalitatīvu, mūsdienīgu un saistošu saturu sociālajiem tīkliem un…",
    "source": "CV.lv",
    "posted": "2026-11-10",
+   "expires": "2026-12-10",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5918,6 +6180,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-21",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5934,6 +6197,7 @@
    "description": "I-Work Group ir uzņēmums ar 20 gadu pieredzi personāla atlasē un novērtēšanā. Paplašinām komandu un aicinām darbā Jaunāko personāla atlases speciālistu/-i. Iesaistīsies personāla atlases projektu sākumposmos, sadarbosies ar projektu vadītājiem un iegūsi praktisku pieredzi atlasē. Veiksi talantu…",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5952,6 +6216,7 @@
    "description": "User Support & Service Operations: Act as the on-site first point of contact for colleagues, register tickets on behalf of end users if required. Resolve user requests and incidents in a timely manner according to Group IT defined processes. Install, configure, monitor, and maintain user equipment…",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5968,6 +6233,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -5986,6 +6252,7 @@
    "description": "Kāda būs Tava ikdiena Apkalposi klientus, pieņemot remontā iekārtas un izsniedzot tās pēc remonta Nodrošināsi visu salaboto un pārsūtamo iekārtu operatīvu plūsmu Reģistrēsi un uzturēsi nepieciešamo informāciju elektroniskajā informācijas sistēmā Kādu mēs Tevi redzam Tev ir pabeigta vidējā izglītība…",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -6002,6 +6269,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-19",
    "groups": [
@@ -6020,6 +6288,7 @@
    "description": "Mums ir svarīgi, lai Tev ir: • Vismaz 2 gadu pieredze personāla atlasē (recruitment); • Spēja patstāvīgi vadīt pilnu personāla atlases procesu un nebaidīties no aktīvas kandidātu meklēšanas LinkedIn un citos profesionālajos tīklos; • Spēja vienlaikus strādāt ar vairākiem uzdevumiem un ātri…",
    "source": "CV.lv",
    "posted": "2026-11-09",
+   "expires": "2026-12-09",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -6036,6 +6305,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -6053,6 +6323,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-19",
    "groups": [
     "support"
@@ -6068,6 +6339,7 @@
    "description": "Darba vieta Rāmavā, Liepu aleja 4",
    "source": "CV.lv",
    "posted": "2026-11-07",
+   "expires": "2026-12-07",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -6086,6 +6358,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "marketing"
@@ -6101,6 +6374,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "marketing"
@@ -6116,6 +6390,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "ai"
@@ -6131,6 +6406,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr",
@@ -6147,6 +6423,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "ai"
@@ -6162,6 +6439,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr"
@@ -6179,6 +6457,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr"
@@ -6194,6 +6473,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr"
@@ -6209,6 +6489,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "admin"
@@ -6224,6 +6505,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr"
@@ -6239,6 +6521,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "hr"
@@ -6254,6 +6537,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "marketing"
@@ -6269,6 +6553,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "support"
@@ -6284,6 +6569,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "support"
@@ -6299,6 +6585,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "support"
@@ -6314,6 +6601,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "admin"
@@ -6329,6 +6617,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "ai"
@@ -6346,6 +6635,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-11-07",
+   "expires": "",
    "first_seen": "2026-11-07",
    "groups": [
     "ai"
@@ -6363,6 +6653,7 @@
    "description": "SIA Cef Recruitment & Solutions ir starptautisks personāla atlases un nodrošināšanas uzņēmums. Meklējam pieredzējušu pārdošanas speciālistu darbam ar uzņēmumiem Vācijā. Mēs atrodam klientus – Jūs noslēdzat līgumus! Mūsu AI tehnoloģijās balstītā sistēma nodrošina potenciālo klientu meklēšanu un…",
    "source": "CV.lv",
    "posted": "2026-11-06",
+   "expires": "2026-12-06",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-06",
    "groups": [
@@ -6382,6 +6673,7 @@
    "description": "Vai Tu vēlies iegūt jaunu darba pieredzi un attīstīt savas klientu apkalpošanas prasmes? Pievienojies mūsu komandai kā Klientu apkalpošanas speciālists/-e, ja vēlies mācīties, pilnveidoties un nodrošināt izcilu klientu pieredzi! Iekļaujošu un draudzīgu darba vidi, kurā jutīsies atbalstīts,…",
    "source": "CV.lv",
    "posted": "2026-11-06",
+   "expires": "2026-12-06",
    "remote_type": "FULLY_REMOTE",
    "first_seen": "2026-11-06",
    "groups": [
@@ -6400,6 +6692,7 @@
    "description": "augstākā izglītība informācijas tehnoloģiju, datorzinātņu, uzņēmumu vadības vai saistītā jomā pieredze IT pārvaldības, IT stratēģijas un tehnoloģiju attīstības jautājumos izpratne par IT pārvaldības modeļiem, to izveidi, pilnveidošanu un ieviešanu zināšanas par IT arhitektūras principiem, tās…",
    "source": "CV.lv",
    "posted": "2026-11-06",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-06",
    "groups": [
@@ -6416,6 +6709,7 @@
    "description": "As our team grows, we’re looking for a part-time Office Manager & HR Assistant: the person who keeps our office, paperwork and people processes running smoothly while we focus on building the business. If you like order, enjoy being the one everyone can rely on, and want to see how a fintech…",
    "source": "CV.lv",
    "posted": "2026-11-06",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-06",
    "groups": [
@@ -6433,6 +6727,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-06",
+   "expires": "2026-12-06",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-06",
    "groups": [
@@ -6482,6 +6777,7 @@
    "description": "vidējā vai augstākā izglītība; vēlama iepriekšēja darba pieredze līdzvērtīgā darbā; vēlama pieredze darbā ar kases aparātu; labas saskarsmes spējas, laipna un atsaucīga attieksme; atbildības sajūta un precizitāte; teicamas latviešu valodas, vēlamas vienas svešvalodas zināšanas labā sarunvalodas…",
    "source": "CV.lv",
    "posted": "2026-11-05",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-05",
    "groups": [
@@ -6498,6 +6794,7 @@
    "description": "SIA “Rīgas nami” ir Rīgas valstspilsētas pašvaldības kapitālsabiedrība, kuras galvenie darbības virzieni ir kultūrvēsturiskā mantojuma saglabāšana, īpašumu attīstīšana, pārvaldīšana un apsaimniekošana, tirgus darbības nodrošināšana, kā arī kultūras pasākumu nodrošināšana kinoteātrī \"Splendid…",
    "source": "CV.lv",
    "posted": "2026-11-05",
+   "expires": "2026-12-05",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-05",
    "groups": [
@@ -6516,6 +6813,7 @@
    "description": "Fluency in English Knowledge of any other foreign languages (Spanish, French, Chinese, Arabic, etc.) is considered as advantage Higher education students are welcomed Computer literacy Ability to work in a team and achieve global goal Accuracy and punctuality Stress resistance Previous client…",
    "source": "CV.lv",
    "posted": "2026-11-05",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-05",
    "groups": [
@@ -6532,6 +6830,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-05",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-05",
    "groups": [
@@ -6548,6 +6847,7 @@
    "description": "Amata apraksts Kā jaunākais/-ā lidojumu koordinators/-e (Junior Operations Controller) Jūs būsiet atbildīgs/-a par dalību projektos, administratīvo procesu nodrošināšanu, kas nodrošina lidmašīnu atbilstību, uzņēmuma sagatavotību sezonai, un sniegsiet atbalstu Lidojumu operāciju departamentam. Kā…",
    "source": "CV.lv",
    "posted": "2026-11-05",
+   "expires": "2026-12-05",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-05",
    "groups": [
@@ -6564,6 +6864,7 @@
    "description": "• augstākā izglītība; • pieredze personāla lietvedībā un personāla vadībā; • vēlama pieredze ar Horizon (vai līdzīgu) resursu vadības sistēmu; • labas prasmes dokumentu noformēšanā; • precizitāte, atbildības izjūta un spēja patstāvīgi organizēt savu darbu; • labas prasmes standarta biroja…",
    "source": "CV.lv",
    "posted": "2026-11-04",
+   "expires": "2026-12-04",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-04",
    "groups": [
@@ -6580,6 +6881,7 @@
    "description": "Prime Prometics is a pro-age beauty brand where AI is part of the daily creative work, from studying competitor ads to generating and editing videos. We’re looking for someone who enjoys both sides: understanding why an ad works, and building the tools that help us make better ones. This is a new…",
    "source": "CV.lv",
    "posted": "2026-11-04",
+   "expires": "2026-12-04",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-04",
    "groups": [
@@ -6599,6 +6901,7 @@
    "description": "Augstākā izglītība personālvadībā vai citā jomā (piemēram, tiesību zinātnē vai vadībzinībās), kas papildināta ar mācībām vai praktisku pieredzi personālvadībā. • Vismaz divu gadu pieredze personālvadībā, tai skaitā personāla dokumentu sagatavošanā un darba tiesisko attiecību noformēšanā. • Labas…",
    "source": "CV.lv",
    "posted": "2026-11-04",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-04",
    "groups": [
@@ -6647,6 +6950,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6665,6 +6969,7 @@
    "description": "· Augstākā izglītība vadībzinātnē, ekonomikā, finansēs, publiskajā pārvaldē, dabaszinātnēs vai inženierzinātnēs. · Vismaz 3 gadu pieredze projektu vadībā vai administrēšanā, tostarp starptautiski finansētos projektos. · Pieredze vismaz trīs projektu īstenošanā. · Pārliecinoša pieredze budžeta…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6681,6 +6986,7 @@
    "description": "Vismaz 3 gadu pieredzi pārdošanas vadītāja, klientu vadītāja (Account Manager), projektu vadītāja vai biznesa analītiķa amatā. Labu izpratni par maksājumu nozari. Labas zināšanas par mākslīgā intelekta (AI) rīkiem un spēju tos efektīvi izmantot ikdienas darbā. Teicamas komunikācijas prasmes, kā arī…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6700,6 +7006,7 @@
    "description": "Founded in 2012 and with HQ in Riga, Eleving Group is a publicly listed international fintech operating across 18 countries on 3 continents. Our team of 4,600+ people brings together different cultures, perspectives, and experiences. Together we create vehicle, smartphone, and consumer financing…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6718,6 +7025,7 @@
    "description": "Founded in 2012 and with HQ in Riga, Eleving Group is a publicly listed international fintech operating across 18 countries on 3 continents. Our team of 4,600+ people brings together different cultures, perspectives, and experiences. Together we create vehicle, smartphone, and consumer financing…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6736,6 +7044,7 @@
    "description": "Vai esi gatavs ienirt aizraujošajā personāla vadības pasaulē un gūt praktisku pieredzi vienā no Latvijas lielākajām slimnīcām? Mēs meklējam motivētu un zinātkāru praktikantu, kurš vēlas papildināt savas akadēmiskās zināšanas ar reālu darba pieredzi dinamiskā un profesionālā vidē. Tavos darba…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6752,6 +7061,7 @@
    "description": "Izglītības un zinātnes ministrija (reģ.Nr. 90000022399) izsludina atklātu konkursu uz valsts sekretāra vietnieka finanšu un administratīvajos jautājumos valsts civildienesta ierēdņa amatu (uz nenoteiktu laiku) Amata mērķis: Koordinēt administratīvo darbu ministrijā, sniedzot atbalstu valsts…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-11-22",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6768,6 +7078,7 @@
    "description": "• augstākā izglītība sociālajās vai vadības zinātnēs (vēlams personāla vadības vai psiholoģijas jomā); • iepriekšēja darba pieredze ar personāla atlases un/vai attīstības projektiem; • izcilas saskarsmes, komunikācijas un prezentēšanas prasmes; • iniciatīva, spēja patstāvīgi organizēt savu darbu,…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6784,6 +7095,7 @@
    "description": "SIA “Kreiss” ir stabils un starptautiski atzīts loģistikas uzņēmums ar augstiem profesionālajiem standartiem un cieņu pret cilvēkiem. Mūsu panākumu pamatā ir uzticama komanda un efektīva komunikācija. Uzņēmums \"Kreiss\" aicina komandai pievienoties Mārketinga speciālistu/-i, kas palīdzēs mums…",
    "source": "CV.lv",
    "posted": "2026-11-03",
+   "expires": "2026-12-03",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-03",
    "groups": [
@@ -6817,6 +7129,7 @@
    "description": "Vidējā vispārējā izglītība Teicamas latviešu valodas un labas angļu valodas zināšanas Vēlama praktiskā darba pieredze līdzvērtīgā jomā vismaz 1 (viens) gads Atbilstība Bērnu tiesību aizsardzības likuma 72. panta prasībām Atbilstība Nacionālās drošības likuma prasībām. Izveidots kāds no eParaksta…",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6833,6 +7146,7 @@
    "description": "augstākā izglītība IT saistītā jomā vismaz 2 gadu pieredze drošības jautājumu pārvaldībā pieredze ar drošības sistēmām (WAF, Firewalls, Endpoint Security, DLP, Spam filter u.c.) pieredze dažādas programmatūras un operētājsistēmu (Windows, Linux) konfigurēšanā zināšanas par šifrēšanas tehnoloģijām…",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6849,6 +7163,7 @@
    "description": "Aicinām Bērnu slimnīcas Darba tiesisko attiecību administrēšans daļas komandai pievienoties precīzu un atsaucīgu kolēģi, kurš nodrošinās kvalitatīvu personāla administrēšanu un palīdzēs darbiniekiem un vadītājiem ikdienas personāla jautājumos. Galvenie amata pienākumi · Sagatavot un noformēt…",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-12-02",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6867,6 +7182,7 @@
    "description": "Meklējam pieredzējušu kolēģi, kurš līdztekus kvalitatīvai personāla administrēšanai koordinēs Horizon personāla moduļa lietošanu, sniegs metodisko atbalstu komandai un palīdzēs pilnveidot personāla procesus, balstoties datos. Galvenie amata pienākumi · Nodrošināt personāla administrēšanu un darba…",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-12-02",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6885,6 +7201,7 @@
    "description": "Valsts kasei turpinot grāmatvedības centralizācijas reformu, kopējais mērķis ir nodrošināt, lai līdz 2026. gada 31. decembrim pakalpojumu saņemtu 80 % valsts pārvaldē esošo iestāžu, izlīdzināt grāmatvedībā nodarbināto slodzes, vienādot grāmatvedības uzskaites procesus - aicinām pievienoties…",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-11-23",
    "remote_type": "HYBRID",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6904,6 +7221,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-02",
+   "expires": "2026-12-02",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-02",
    "groups": [
@@ -6936,6 +7254,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "marketing"
@@ -6951,6 +7270,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "support"
@@ -6968,6 +7288,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "ai"
@@ -6985,6 +7306,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "admin"
@@ -7000,6 +7322,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "admin"
@@ -7015,6 +7338,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "admin"
@@ -7030,6 +7354,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "hr"
@@ -7045,6 +7370,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "support"
@@ -7060,6 +7386,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "support"
@@ -7077,6 +7404,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
+   "expires": "",
    "first_seen": "2026-10-31",
    "groups": [
     "ai"
@@ -7110,6 +7438,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-30",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-30",
    "groups": [
@@ -7128,6 +7457,7 @@
    "description": "Are you enthusiastic about gaining new work experience while improving your communication skills? If your answer is yes, join our team as a Customer Service Specialist! You will work in a project where emails, chat messages and calls are received daily in Norwegian and English. If this sounds great…",
    "source": "CV.lv",
    "posted": "2026-10-30",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-30",
    "groups": [
@@ -7146,6 +7476,7 @@
    "description": "• augstākā vai vidējā profesionālā izglītība (administrēšanā, veselības aprūpē, ekonomikā vai līdzīgā jomā – tiks uzskatīta par priekšrocību); • iepriekšēja darba pieredze administratīvā amatā (vēlama veselības aprūpes vai publiskajā sektorā); • labas iemaņas darbā ar datoru (MS Office, īpaši…",
    "source": "CV.lv",
    "posted": "2026-10-30",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-30",
    "groups": [
@@ -7162,6 +7493,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-30",
+   "expires": "2026-11-30",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-30",
    "groups": [
@@ -7180,6 +7512,7 @@
    "description": "Meklējam koordinatoru/-i, kurš/-a palīdzēs nodrošināt kvalitatīvu un pacientiem ērtu Epilepsijas un miega medicīnas centra (EMMC) ikdienas darbu. Ja Tev patīk organizēt, koordinēt un risināt dažādus jautājumus, ja proti komunicēt ar pacientiem un viņu ģimenēm un vēlies strādāt dinamiskā vidē kopā…",
    "source": "CV.lv",
    "posted": "2026-10-30",
+   "expires": "2026-11-30",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-30",
    "groups": [
@@ -7196,6 +7529,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-29",
+   "expires": "2026-11-29",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-29",
    "groups": [
@@ -7212,6 +7546,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-29",
+   "expires": "2026-11-29",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-29",
    "groups": [
@@ -7228,6 +7563,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-29",
+   "expires": "2026-11-29",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-29",
    "groups": [
@@ -7260,6 +7596,7 @@
    "description": "Iepriekšēja pieredze debitoru uzskaitē un klientu rēķinu administrēšanā; izglītība un zināšanas grāmatvedībā un grāmatvedības procesos; vēlamas somu valodas zināšanas; labas latviešu un angļu valodas zināšanas; precizitāte un spēja pamanīt kļūdas skaitliskajos datos; labas darba organizēšanas,…",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-28",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7278,6 +7615,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7294,6 +7632,7 @@
    "description": "· Augstākā izglītība uzņēmējdarbībā, pārdošanā, mārketingā vai līdzīgā jomā. · Vismaz 3 gadu pieredze pārdošanas, biznesa attīstības, klientu piesaistes vai projektu vadības jomā. · Pieredze konsultatīvā pārdošanā un darbā ar klientu lēmumu pieņemšanas procesu. · Izpratne par pārdošanas procesa…",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-28",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7312,6 +7651,7 @@
    "description": "Stabila darba vieta ar sociālajām garantijām; Veselības apdrošināšana",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-23",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7330,6 +7670,7 @@
    "description": "klientu atbalsts pa tālruni, e-pastu un tiešsaistes tērzētavā; konsultāciju sniegšana pa e-pastu tirdzniecības un maksājumu pakalpojumu jomā; e-komercijas projektu pieteikumu elektroniska pārbaude un pakalpojumu aktivizēšana; teicamas latviešu un angļu valodas zināšanas (saziņai ar klientiem no…",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-28",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7346,6 +7687,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-28",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7362,6 +7704,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-28",
+   "expires": "2026-11-28",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-28",
    "groups": [
@@ -7378,6 +7721,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-10-27",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-27",
    "groups": [
@@ -7394,6 +7738,7 @@
    "description": "Ja tev patīk video joma, tehnika, montāža, video kamera vai pat tikai mikrofons, un sports tev nav sveša vide, tad mēs meklējam tieši tevi. Mēs katru gadu augam par 20–25%, tāpēc jauni cilvēki mums nepieciešami visās video pakalpojumu jomās. Mums meklējam dažādus video nozares speciālistus. Ja…",
    "source": "CV.lv",
    "posted": "2026-10-27",
+   "expires": "2026-11-27",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-27",
    "groups": [
@@ -7412,6 +7757,7 @@
    "description": "Paula Stradiņa Klīniskā universitātes slimnīca ir viena no vadošajām ārstniecības, medicīnas izglītības un zinātnes iestādēm Latvijā. Mēs apvienojam ilggadēju pieredzi ar modernām ārstniecības tehnoloģijām, zinātni un inovācijām. Slimnīca nepārtraukti attīstās, ievieš jaunas ārstniecības metodes un…",
    "source": "CV.lv",
    "posted": "2026-10-27",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-27",
    "groups": [
@@ -7428,6 +7774,7 @@
    "description": "• vidējā vai augstākā izglītība; • vēlama pieredze klientu apkalpošanas jomā; • prasmes informācijas apkopošanā, analīzē un dokumentu noformēšanā; • ļoti labas komunikācijas prasmes, iniciatīva, orientācija uz klientu; • spēja strādāt komandā un patstāvīgi organizēt savu darbu; • labas prasmes…",
    "source": "CV.lv",
    "posted": "2026-10-27",
+   "expires": "2026-11-27",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-27",
    "groups": [
@@ -7444,6 +7791,7 @@
    "description": "Temporary 1.5 year contract with possibility of extension. Working hours: 9:00 - 17:30. Health insurance from first day of work. Monthly allowance & Yearly bonus. Hybrid work schedule (3 days on site and 2 days’ work from home).",
    "source": "CV.lv",
    "posted": "2026-10-26",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-26",
    "groups": [
@@ -7463,6 +7811,7 @@
    "description": "Labas datorprasmes Vēlme mācīties, attīstīties un pilnveidot savas profesionālās prasmes Iepriekšēja pieredze pārdošanas administrēšanā vai biroja darbā tiks uzskatīta par priekšrocību Augsta atbildības sajūta, precizitāte un organizētība Spēja patstāvīgi plānot savu darbu un noteikt prioritātes…",
    "source": "CV.lv",
    "posted": "2026-10-26",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-26",
    "groups": [
@@ -7479,6 +7828,7 @@
    "description": "Support and develop a positive corporate culture and employee engagement. Act as the first point of contact for employees regarding HR-related matters and internal policies. Manage Performance Reviews, employee assessments, and regular 1-on-1 meetings. Identify training needs and coordinate…",
    "source": "CV.lv",
    "posted": "2026-10-26",
+   "expires": "2026-11-26",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-26",
    "groups": [
@@ -7497,6 +7847,7 @@
    "description": "pieņemt, apstrādāt un koordinēt klientu pasūtījumus; ikdienā komunicēt ar Skandināvijas B2B klientiem; sniegt administratīvo atbalstu pārdošanas komandai; nodrošināt ar klientu pasūtījumiem saistīto dokumentu apriti; sadarboties ar pārdošanas, ražošanas, plānošanas un loģistikas komandām; laipna,…",
    "source": "CV.lv",
    "posted": "2026-10-26",
+   "expires": "2026-11-26",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-26",
    "groups": [
@@ -7546,6 +7897,7 @@
    "description": "sākot no 3200 EUR",
    "source": "CV.lv",
    "posted": "2026-10-23",
+   "expires": "2026-11-23",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-23",
    "groups": [
@@ -7562,6 +7914,7 @@
    "description": "We at CMA CGM Latvia are now looking for a Sales Support to join our team. Your role In this role you will assist and support sales representatives so that we can offer timely and effective solutions to our customers. You will play a key part in building long-lasting relationships and making sure…",
    "source": "CV.lv",
    "posted": "2026-10-23",
+   "expires": "2026-11-23",
    "remote_type": "HYBRID",
    "first_seen": "2026-10-23",
    "groups": [
@@ -7580,6 +7933,7 @@
    "description": "We are looking for an Email & SMS Marketing Manager to join our Dreampass team within Dyninno Group travel division. Trevolution is a global leader in air ticketing and travel services, serving retail and corporate clients in 50+ markets. With over 20 years of expertise and an entrepreneurial…",
    "source": "CV.lv",
    "posted": "2026-10-23",
+   "expires": "2026-11-23",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-23",
    "groups": [
@@ -7596,6 +7950,7 @@
    "description": "• Organize the international transport of cargo by road; • Collaborate with drivers and customers, and promptly resolve any issues that arise during cargo transport; • Plan transportation routes for international shipments and manage traffic flow; • You will organize and supervise drivers’ work,…",
    "source": "CV.lv",
    "posted": "2026-10-22",
+   "expires": "2026-11-22",
    "remote_type": "ON_SITE",
    "first_seen": "2026-10-22",
    "groups": [
