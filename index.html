@@ -71,7 +71,7 @@
   <h2>Новые сегодня <b id="nNew"></b></h2>
   <div id="today"></div>
 
-  <h2>Архив · <span id="days">14</span> дней <b id="nOld"></b></h2>
+  <h2>Архив · <span id="days">30</span> дней <b id="nOld"></b></h2>
   <div id="archive"></div>
 
   <footer>Источники: cv.lv · cvmarket.lv · ss.lv · обновляется раз в день · <a href="https://github.com/natalialeaiart/vakances_lv/actions/workflows/daily.yml" target="_blank" rel="noopener">запустить вручную</a></footer>
@@ -150,6 +150,7 @@ document.addEventListener("click", e => {
   .then(d => {
     DATA = d;
     document.getElementById("sub").textContent = `обновлено ${d.updated} · ${d.jobs.length} вакансий`;
+    if (d.archive_days) document.getElementById("days").textContent = d.archive_days;
     // чистим «скрытые» от вакансий, которых уже нет в ленте
     const ids = new Set(d.jobs.map(j => j.id)); seen = new Set([...seen].filter(id => ids.has(id))); store.set("seen", [...seen]);
     render();

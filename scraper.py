@@ -8,7 +8,7 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -199,7 +199,9 @@ def collect_cvlv(session, today):
             })
         offset += len(batch)
         print(f"  cv.lv: {offset}/{total}")
-    return jobs
+    # вся база получена → пропавшие с cv.lv можно удалять
+    complete = bool(total) and offset >= total * 0.95
+    return jobs, (lambda j: complete)
 
 
 # ---------- cvmarket.lv (поиск по словам из config.json) ----------
@@ -217,10 +219,11 @@ def cvmarket_city(art, title, company):
 
 def collect_cvmarket(session, today):
     base = "https://www.cvmarket.lv"
-    jobs, ok, errors = [], 0, 0
+    jobs, ok, errors, capped = [], 0, 0, 0
+    max_pages = CONFIG.get("cvmarket_max_pages", 10)
     for q in all_queries():
         n = 0
-        for page in range(CONFIG.get("cvmarket_max_pages", 3)):
+        for page in range(max_pages):
             params = {"op": "search", "search[keyword]": q}
             if page:  # start=0 сайт понимает как «без поиска» и отдаёт всю базу
                 params["start"] = page * 30
@@ -245,7 +248,7 @@ def collect_cvmarket(session, today):
                 company = clean(comp.get_text(" ")) if comp else ""
                 city = art.select_one(".location")
                 location = (clean(city.get_text(" ")) if city else "") or cvmarket_city(art, title, company)
-                date = next((s.get_text(strip=True) for s in art.select("span")
+                when = next((s.get_text(strip=True) for s in art.select("span")
                              if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
                 href = a["href"]
                 jobs.append({
@@ -256,22 +259,26 @@ def collect_cvmarket(session, today):
                     "location": location,
                     "description": "",
                     "source": "CVMarket.lv",
-                    "posted": posted_date(date, today).isoformat(),
+                    "posted": posted_date(when, today).isoformat(),
                 })
                 n += 1
             if len(arts) < 30:
                 break  # последняя страница
+        else:
+            capped += 1  # дошли до лимита страниц — дальше не смотрели
         print(f"  cvmarket {q!r}: {n}")
     if not ok and errors:
         raise RuntimeError(f"все {errors} запросов к cvmarket.lv с ошибкой")
-    return jobs
+    # удалять пропавшие можно, только если каждый поиск просмотрен до конца
+    complete = not errors and not capped
+    return jobs, (lambda j: complete)
 
 
 # ---------- ss.lv (разделы профессий из config.json) ----------
 
 def collect_ss(session, today):
     base = "https://www.ss.lv"
-    jobs = []
+    jobs, complete_sections = [], set()
     for section, profession in CONFIG.get("ss_sections", {}).items():
         url = f"{base}/lv/work/are-required/{section}/"
         # даты берём из RSS этого же раздела
@@ -285,32 +292,49 @@ def collect_ss(session, today):
         except Exception as e:
             print(f"  ! ss.lv {section} rss: {e}", file=sys.stderr)
 
-        soup = BeautifulSoup(get(session, url).content, "html.parser")
-        n = 0
-        for tr in soup.select('tr[id^="tr_"]'):
-            if not tr["id"][3:].isdigit():
-                continue  # рекламные строки
-            a = tr.select_one("a.am")
-            if not a:
-                continue
-            text = clean(a.get_text(" "))
-            region = tr.select_one(".ads_region")
-            cells = tr.find_all("td", recursive=False)
-            link = base + a["href"]
-            jobs.append({
-                "id": f'ss-{tr["id"][3:]}',
-                "title": short(text, 110),
-                "url": link,
-                "company": clean(cells[3].get_text(" ")) if len(cells) >= 5 else "",
-                "location": clean(region.get_text(" ")) if region else "",
-                "description": text if len(text) > 110 else "",
-                "source": "ss.lv",
-                "posted": dates.get(link, today).isoformat(),
-                "profession": profession,
-            })
-            n += 1
+        n, ids = 0, set()
+        for page in range(1, 11):
+            page_url = url if page == 1 else f"{url}page{page}.html"
+            r = get(session, page_url)
+            if page > 1 and r.url.rstrip("/") != page_url.rstrip("/"):
+                complete_sections.add(section)  # за последней страницей ss.lv отправляет на первую
+                break
+            soup = BeautifulSoup(r.content, "html.parser")
+            new = 0
+            for tr in soup.select('tr[id^="tr_"]'):
+                if not tr["id"][3:].isdigit():
+                    continue  # рекламные строки
+                a = tr.select_one("a.am")
+                if not a or tr["id"] in ids:
+                    continue
+                ids.add(tr["id"])
+                new += 1
+                text = clean(a.get_text(" "))
+                region = tr.select_one(".ads_region")
+                cells = tr.find_all("td", recursive=False)
+                link = base + a["href"]
+                jobs.append({
+                    "id": f'ss-{tr["id"][3:]}',
+                    "title": short(text, 110),
+                    "url": link,
+                    "company": clean(cells[3].get_text(" ")) if len(cells) >= 5 else "",
+                    "location": clean(region.get_text(" ")) if region else "",
+                    "description": text if len(text) > 110 else "",
+                    "source": "ss.lv",
+                    "posted": dates.get(link, today).isoformat(),
+                    "profession": profession,
+                })
+                n += 1
+            if not new or not soup.select_one(f'a.navi[href$="/{section}/page{page + 1}.html"]'):
+                complete_sections.add(section)  # следующей страницы нет
+                break
         print(f"  ss.lv {section}: {n}")
-    return jobs
+
+    def removable(j):
+        """Удалять пропавшее с ss.lv можно, если его раздел просмотрен до конца."""
+        m = re.search(r"/are-required/([^/]+)/", j.get("url", ""))
+        return bool(m) and m.group(1) in complete_sections
+    return jobs, removable
 
 
 def all_queries():
@@ -337,6 +361,12 @@ def main():
     today = now.date()
     session = make_session()
     found, keys, failed = {}, set(), []
+    seen = {}       # источник → все id, которые он вернул сегодня
+    removable = {}  # источник → можно ли удалить пропавшую вакансию
+    counts = {}     # источник → сколько объявлений вернул
+
+    prev_data = json.loads(DATA_FILE.read_text(encoding="utf-8")) if DATA_FILE.exists() else {}
+    prev_counts = prev_data.get("source_counts", {})
 
     enabled = CONFIG.get("sources", {k: True for k in SOURCES})
     for name, collect in SOURCES.items():
@@ -344,11 +374,21 @@ def main():
             continue
         print(f"== {name}")
         try:
-            jobs = collect(session, today)
+            jobs, can_remove = collect(session, today)
         except Exception as e:
             failed.append(name)
             print(f"  ! {name} не ответил: {e}", file=sys.stderr)
             continue
+        counts[name] = len(jobs)
+        seen[name] = {j["id"] for j in jobs}
+        # защита: если сайт вдруг вернул меньше половины обычного (сменилась вёрстка и т. п.),
+        # ничего с него не удаляем
+        if len(jobs) < prev_counts.get(name, 0) * 0.5:
+            print(f"  ! {name}: {len(jobs)} объявлений вместо обычных {prev_counts[name]} — "
+                  f"пропавшие сегодня не удаляю", file=sys.stderr)
+            counts[name] = prev_counts[name]  # не занижаем «норму» из-за сбоя
+        else:
+            removable[name] = can_remove
         added = 0
         for j in jobs:
             # одна и та же вакансия может быть на двух сайтах
@@ -364,12 +404,25 @@ def main():
         sys.exit("Ни один источник не ответил — данные не обновлены.")
 
     # слияние с прошлыми днями (старые тоже перепроверяются — если вы поменяли config.json)
-    old = {}
-    if DATA_FILE.exists():
-        old = {j["id"]: j for j in json.loads(DATA_FILE.read_text(encoding="utf-8")).get("jobs", [])}
+    old = {j["id"]: j for j in prev_data.get("jobs", [])}
+
+    # вакансии, которых сегодня нет на сайте, где их нашли, — удаляем
+    gone = 0
+    for jid, j in list(old.items()):
+        src = j.get("source", "").lower()
+        if src in removable and jid not in seen[src] and removable[src](j):
+            del old[jid]
+            gone += 1
+
+    # «новое сегодня» — только опубликованное не раньше чем за день до прошлого запуска; более
+    # старое, которое бот раньше не брал (например, из-за срока архива), идёт в архив под датой
+    # публикации
+    prev_run = prev_data.get("today")
+    fresh_from = (date.fromisoformat(prev_run) - timedelta(days=1)).isoformat() if prev_run else ""
     for jid, j in found.items():
         prev = old.get(jid, {})
-        j["first_seen"] = prev.get("first_seen", today.isoformat())
+        first = j["posted"] if j["posted"] < fresh_from else today.isoformat()
+        j["first_seen"] = prev.get("first_seen", first)
         j["posted"] = min(j["posted"], prev.get("posted", j["posted"]))
         old[jid] = j
 
@@ -389,17 +442,27 @@ def main():
         j["tags"] = loc + (["by_desc"] if by_desc else [])
         jobs.append(j)
     jobs.sort(key=lambda j: (j["first_seen"], j["posted"]), reverse=True)
+    # одна и та же вакансия с двух сайтов — оставляем одну
+    uniq, keys = [], set()
+    for j in jobs:
+        key = (j["title"].lower(), j["company"].lower())
+        if key not in keys:
+            keys.add(key)
+            uniq.append(j)
+    jobs = uniq
     matched = [j for j in jobs if j["first_seen"] == today.isoformat()]
 
     DATA_FILE.parent.mkdir(exist_ok=True)
     DATA_FILE.write_text(json.dumps({
         "updated": now.strftime("%Y-%m-%d %H:%M"),
         "today": today.isoformat(),
+        "archive_days": CONFIG["archive_days"],
+        "source_counts": {**prev_counts, **counts},
         "groups": [{"id": g["id"], "name": g["name"]} for g in CONFIG["groups"]],
         "jobs": jobs,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Просмотрено: {len(found)}, подошло сегодня: {len(matched)}, в ленте: {len(jobs)}"
-          + (f". Не ответили: {', '.join(failed)}" if failed else ""))
+    print(f"Просмотрено: {len(found)}, подошло сегодня: {len(matched)}, в ленте: {len(jobs)}, "
+          f"удалено пропавших: {gone}" + (f". Не ответили: {', '.join(failed)}" if failed else ""))
 
 
 if __name__ == "__main__":

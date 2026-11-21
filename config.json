@@ -2,7 +2,7 @@
   "_help": "Слова до 4 букв (AI, HR, SMM, web) ищутся только как отдельное слово. Длинные — как начало/часть слова: 'personāl' поймает 'personāla', 'personālvadība'. Регистр не важен.",
 
   "sources": { "cv.lv": true, "cvmarket.lv": true, "ss.lv": true },
-  "archive_days": 14,
+  "archive_days": 30,
 
   "_ss_help": "Разделы ss.lv «Vakances»: адрес раздела → название профессии (по нему вакансия попадает в группу). Полный список разделов: https://www.ss.lv/lv/work/are-required/",
   "ss_sections": {
