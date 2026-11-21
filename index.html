@@ -148,6 +148,9 @@ document.addEventListener("click", e => {
 (window.EMBEDDED_DATA ? Promise.resolve(window.EMBEDDED_DATA)
   : fetch("data/jobs.json?" + Date.now()).then(r => r.json()))
   .then(d => {
+    // вакансии с прошедшим сроком скрываем сразу, не дожидаясь ночного запуска бота
+    const nowRiga = new Date().toLocaleDateString("sv-SE", {timeZone: "Europe/Riga"});
+    d.jobs = d.jobs.filter(j => !j.expires || j.expires >= nowRiga);
     DATA = d;
     document.getElementById("sub").textContent = `обновлено ${d.updated} · ${d.jobs.length} вакансий`;
     if (d.archive_days) document.getElementById("days").textContent = d.archive_days;

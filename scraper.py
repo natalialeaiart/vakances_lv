@@ -195,6 +195,8 @@ def collect_cvlv(session, today):
                 "description": short(content, 300),
                 "source": "CV.lv",
                 "posted": posted.isoformat(),
+                # «Termiņa beigas»: последний день, когда вакансия действует
+                "expires": (v.get("expirationDate") or "")[:10],
                 "remote_type": v.get("remoteWorkType") or "",
             })
         offset += len(batch)
@@ -250,6 +252,9 @@ def collect_cvmarket(session, today):
                 location = (clean(city.get_text(" ")) if city else "") or cvmarket_city(art, title, company)
                 when = next((s.get_text(strip=True) for s in art.select("span")
                              if re.match(r"(pirms|vakar|šodien)", s.get_text(strip=True), re.I)), "")
+                # «atlikušas 2 dienas» / «atlikusi 1 diena» → последний день вакансии
+                left = re.search(r"atliku\w*\s+(\d+)\s+dien", art.get_text(" "), re.I)
+                expires = (today + timedelta(days=int(left.group(1)))).isoformat() if left else ""
                 href = a["href"]
                 jobs.append({
                     "id": f"cvm-{job_id}",
@@ -260,6 +265,7 @@ def collect_cvmarket(session, today):
                     "description": "",
                     "source": "CVMarket.lv",
                     "posted": posted_date(when, today).isoformat(),
+                    "expires": expires,
                 })
                 n += 1
             if len(arts) < 30:
@@ -432,6 +438,8 @@ def main():
     for j in old.values():
         if j["posted"] < cutoff:
             continue
+        if j.get("expires") and j["expires"] < today.isoformat():
+            continue  # срок вакансии вышел, даже если сайт её ещё показывает
         c = classify(j)
         if not c:
             continue
