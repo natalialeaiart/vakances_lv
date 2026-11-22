@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21 20:38",
- "today": "2026-11-21",
+ "updated": "2026-11-22 10:04",
+ "today": "2026-11-22",
  "archive_days": 30,
  "source_counts": {
-  "cv.lv": 1895,
-  "cvmarket.lv": 1575,
-  "ss.lv": 251
+  "cv.lv": 1838,
+  "cvmarket.lv": 1519,
+  "ss.lv": 248
  },
  "groups": [
   {
@@ -38,6 +38,38 @@
   }
  ],
  "jobs": [
+  {
+   "id": "cvm-1663290",
+   "title": "PERSONĀLA SPECIĀLISTS Personāla vadības daļā",
+   "url": "https://www.cvmarket.lv/personala-specialists-personala-vadibas-dala-riga-paula-stradina-kliniska-universitates-slimnica-sia-1663290",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-22",
+   "expires": "",
+   "first_seen": "2026-11-22",
+   "groups": [
+    "hr"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1663274",
+   "title": "RADIOGRĀFERS / RADIOLOGA ASISTENTS Invazīvās kardioloģijas laboratorijā",
+   "url": "https://www.cvmarket.lv/radiografers-radiologa-asistents-invazivas-kardiologijas-laboratorija-riga-paula-stradina-kliniska-universitates-slimnica-sia-1663274",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-22",
+   "expires": "",
+   "first_seen": "2026-11-22",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
   {
    "id": "cvm-1663247",
    "title": "Jaunākais(-ā) speciālists(-e) Pārdošanas un mārketinga nodaļā",
@@ -1644,39 +1676,6 @@
    "tags": []
   },
   {
-   "id": "ss-58185423",
-   "title": "Meklējam palīgu/asistentu mūsu draudzīgajai komandai. Nepilna laika darbs. Galvenais",
-   "url": "https://www.ss.lv/msg/lv/work/are-required/assistant/bbmpbp.html",
-   "company": "SIA Next Baltic",
-   "location": "Rīga, Iļģuciems",
-   "description": "",
-   "source": "ss.lv",
-   "posted": "2026-11-19",
-   "profession": "Asistents",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "ss-57359444",
-   "title": "HR assitents, HR ассистент Vadītājam ir nepieciešams palīgs ar zināšanām un prasmēm d",
-   "url": "https://www.ss.lv/msg/lv/work/are-required/assistant/gbcgb.html",
-   "company": "Gentlemen",
-   "location": "Rīga, centrs",
-   "description": "",
-   "source": "ss.lv",
-   "posted": "2026-11-19",
-   "profession": "Asistents",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "hr",
-    "admin"
-   ],
-   "tags": []
-  },
-  {
    "id": "ss-58260903",
    "title": "Krokus Aicina Savā Komandā Menedžeri. Interneta veikala un klientu apkalpošanas mene",
    "url": "https://www.ss.lv/msg/lv/work/are-required/manager/hdeln.html",
@@ -2506,23 +2505,6 @@
    "tags": []
   },
   {
-   "id": "cv-1671981",
-   "title": "Sales assistant",
-   "url": "https://www.cv.lv/lv/vacancy/1671981",
-   "company": "SIA Aerones Engineering",
-   "location": "Rīga",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-18",
-   "expires": "2026-11-21",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
    "id": "cv-1679957",
    "title": "Video Content Creator",
    "url": "https://www.cv.lv/lv/vacancy/1679957",
@@ -2739,42 +2721,6 @@
     "support"
    ],
    "tags": []
-  },
-  {
-   "id": "cv-1671728",
-   "title": "Projekta administrators/-e",
-   "url": "https://www.cv.lv/lv/vacancy/1671728",
-   "company": "SHENBERG SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CV.lv",
-   "posted": "2026-11-18",
-   "expires": "2026-11-21",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cv-1671721",
-   "title": "Danish speaking Customer Support specialist (travel industry)",
-   "url": "https://www.cv.lv/lv/vacancy/1671721",
-   "company": "Concentrix",
-   "location": "Rīga",
-   "description": "Experience the power of a game-changing career. Join Concentrix as Customer Support specialist! About the role, as a Customer Support Specialist, you will be responsible for Bringing great customer service to the customers via phone and e-mail in Danish and English language. Our support team only…",
-   "source": "CV.lv",
-   "posted": "2026-11-18",
-   "expires": "2026-11-21",
-   "remote_type": "HYBRID",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "support"
-   ],
-   "tags": [
-    "hybrid"
-   ]
   },
   {
    "id": "cvm-1662937",
@@ -5434,38 +5380,6 @@
    "tags": []
   },
   {
-   "id": "cvm-1662103",
-   "title": "Medicīnas asistents (Pieteikumu sistēma STUDENTIEM)",
-   "url": "https://www.cvmarket.lv/medicinas-asistents-pieteikumu-sistema-studentiem-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662103",
-   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "expires": "",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
-   "id": "cvm-1662101",
-   "title": "RADIOLOGA ASISTENTS Onkoloģijas klīnikā",
-   "url": "https://www.cvmarket.lv/radiologa-asistents-onkologijas-klinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662101",
-   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
-   "location": "Rīga",
-   "description": "",
-   "source": "CVMarket.lv",
-   "posted": "2026-11-12",
-   "expires": "",
-   "first_seen": "2026-11-19",
-   "groups": [
-    "admin"
-   ],
-   "tags": []
-  },
-  {
    "id": "cvm-1662320",
    "title": "SPA administrators/-e (Wellton Riverside SPA Hotel)",
    "url": "https://www.cvmarket.lv/spa-administrators-e-wellton-riverside-spa-hotel-riga-mogotel-mv-sia-1662320",
@@ -6180,7 +6094,7 @@
    "description": "",
    "source": "CV.lv",
    "posted": "2026-11-09",
-   "expires": "2026-12-21",
+   "expires": "2026-12-22",
    "remote_type": "ON_SITE",
    "first_seen": "2026-11-19",
    "groups": [
@@ -6297,6 +6211,38 @@
    "tags": []
   },
   {
+   "id": "cvm-1662103",
+   "title": "Medicīnas asistents (Pieteikumu sistēma STUDENTIEM)",
+   "url": "https://www.cvmarket.lv/medicinas-asistents-pieteikumu-sistema-studentiem-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662103",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-08",
+   "expires": "",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cvm-1662101",
+   "title": "RADIOLOGA ASISTENTS Onkoloģijas klīnikā",
+   "url": "https://www.cvmarket.lv/radiologa-asistents-onkologijas-klinika-riga-paula-stradina-kliniska-universitates-slimnica-sia-1662101",
+   "company": "Paula Stradiņa klīniskā universitātes slimnīca, SIA",
+   "location": "Rīga",
+   "description": "",
+   "source": "CVMarket.lv",
+   "posted": "2026-11-08",
+   "expires": "",
+   "first_seen": "2026-11-19",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
+  },
+  {
    "id": "cvm-1662034",
    "title": "Klientu apkalpošanas speciālists/-e",
    "url": "https://www.cvmarket.lv/klientu-apkalposanas-specialists-e-latvija-transcom-worldwide-latvia-sia-1662034",
@@ -6348,6 +6294,22 @@
    "tags": [
     "no_city"
    ]
+  },
+  {
+   "id": "ss-58185427",
+   "title": "Meklējam palīgu/asistentu mūsu draudzīgajai komandai. Nepilna laika darbs. Galvenais",
+   "url": "https://www.ss.lv/msg/lv/work/are-required/secretary/ckcgh.html",
+   "company": "SIA Next Baltic",
+   "location": "Rīga, Iļģuciems",
+   "description": "",
+   "source": "ss.lv",
+   "posted": "2026-11-14",
+   "profession": "Sekretārs",
+   "first_seen": "2026-11-14",
+   "groups": [
+    "admin"
+   ],
+   "tags": []
   },
   {
    "id": "cvm-1661670",
@@ -7270,7 +7232,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
-   "expires": "",
+   "expires": "2026-11-27",
    "first_seen": "2026-10-31",
    "groups": [
     "support"
@@ -7288,7 +7250,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
-   "expires": "",
+   "expires": "2026-11-27",
    "first_seen": "2026-10-31",
    "groups": [
     "ai"
@@ -7338,7 +7300,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
-   "expires": "",
+   "expires": "2026-11-27",
    "first_seen": "2026-10-31",
    "groups": [
     "admin"
@@ -7404,7 +7366,7 @@
    "description": "",
    "source": "CVMarket.lv",
    "posted": "2026-10-31",
-   "expires": "",
+   "expires": "2026-11-27",
    "first_seen": "2026-10-31",
    "groups": [
     "ai"
@@ -7940,25 +7902,6 @@
     "marketing"
    ],
    "tags": []
-  },
-  {
-   "id": "cv-1670584",
-   "title": "Transport dispatcher",
-   "url": "https://www.cv.lv/lv/vacancy/1670584",
-   "company": "Trales LV SIA",
-   "location": "Rīga",
-   "description": "• Organize the international transport of cargo by road; • Collaborate with drivers and customers, and promptly resolve any issues that arise during cargo transport; • Plan transportation routes for international shipments and manage traffic flow; • You will organize and supervise drivers’ work,…",
-   "source": "CV.lv",
-   "posted": "2026-10-22",
-   "expires": "2026-11-22",
-   "remote_type": "ON_SITE",
-   "first_seen": "2026-10-22",
-   "groups": [
-    "ai"
-   ],
-   "tags": [
-    "by_desc"
-   ]
   }
  ]
 }
